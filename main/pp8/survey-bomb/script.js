@@ -12804,13 +12804,13 @@ ${r.message}`,
         },
         MG = "CARGANDO",
         UG = {
-            JOINED_COUNT: "{count} of {maxPlayers} players joined",
-            PLAYERS_NEEDED: "1 player needed to start | {count} players needed to start",
-            WAITING_FOR_VIP: "Waiting for {name} to start the game",
-            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-            GAME_STARTING: "Game is starting",
-            BUTTON_START: "Press to Start",
-            BUTTON_CANCEL: "Press to Cancel"
+            JOINED_COUNT: "{count} de {maxPlayers} jugadores se unieron",
+            PLAYERS_NEEDED: "x | Se necesita {count} jugador para empezar | Se necesitan {count} jugadores para empezar",
+            WAITING_FOR_VIP: "Esperando a que {name} empiece la partida",
+            WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
+            GAME_STARTING: "La partida está empezando",
+            BUTTON_START: "Pulsa para empezar",
+            BUTTON_CANCEL: "Pulsa para cancelar"
         },
         FG = {
             GALLERY_LINK: "Visita la galería",
