@@ -28160,7 +28160,7 @@ ${t}`
             IMPOSTOR_HEADER: "Encuentra al impostor"
         },
         sae = {
-            CHOOSING_CONFIRMATION: "Elige",
+            CHOOSING_CONFIRMATION: "Elegiste",
             GUESSING_CONFIRMATION: "Vas a viajar al año",
             SKIP: "Omitir introducción"
         },
@@ -28214,7 +28214,7 @@ ${t}`
             IMPOSTOR_HEADER: "Encuentra al impostor"
         },
         pae = {
-            CHOOSING_CONFIRMATION: "Elige",
+            CHOOSING_CONFIRMATION: "Elegiste",
             GUESSING_CONFIRMATION: "Viajarás al año",
             SKIP: "Omitir introducción"
         },
