@@ -8949,7 +8949,7 @@ var hoe = BP((eae, aR) => {
             directory: "standalone/quiplash2-international",
             categoryId: "quiplash2-internationalGame"
         }, {
-            name: "Guesspionage Crowdplay",
+            name: "Crowdplay de Espiadivinos",
             tag: "guesspionage-crowdplay",
             wrapper: "marionette",
             isPublic: !0,
@@ -8988,13 +8988,13 @@ var hoe = BP((eae, aR) => {
             isPublic: !0,
             directory: "pp1/drawful"
         }, {
-            name: "Word Spud",
+            name: "Papa Palabra",
             tag: "wordspud",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp1/wordspud"
         }, {
-            name: "Lie Swatter",
+            name: "Mata Mentiras",
             tag: "lieswatter",
             wrapper: "marionette",
             isPublic: !0,
@@ -9018,13 +9018,13 @@ var hoe = BP((eae, aR) => {
             isPublic: !0,
             directory: "pp2/earwax"
         }, {
-            name: "Bidiots",
+            name: "Subastardos",
             tag: "auction",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp2/auction"
         }, {
-            name: "Bomb Corp",
+            name: "Bomba S.A.",
             tag: "bombintern",
             wrapper: "marionette",
             isPublic: !0,
@@ -9036,7 +9036,7 @@ var hoe = BP((eae, aR) => {
             isPublic: !0,
             directory: "pp2/quiplash"
         }, {
-            name: "Fakin' It",
+            name: "Engáñame",
             tag: "fakinit",
             wrapper: "marionette",
             isPublic: !0,
@@ -9064,7 +9064,7 @@ var hoe = BP((eae, aR) => {
             directory: "pp3/triviadeath",
             categoryId: "TriviaDeathResults"
         }, {
-            name: "Guesspionage",
+            name: "Espiadivinos",
             tag: "pollposition",
             wrapper: "marionette",
             isPublic: !0,
@@ -9076,14 +9076,14 @@ var hoe = BP((eae, aR) => {
             isPublic: !0,
             directory: "pp4/fibbage3"
         }, {
-            name: "Survive the Internet",
+            name: "Sobrevive al Internet",
             tag: "survivetheinternet",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp4/survivetheinternet",
             categoryId: "STIGame"
         }, {
-            name: "Monster Seeking Monster",
+            name: "Monstruo Busca Monstruo",
             tag: "monstermingle",
             wrapper: "marionette",
             isPublic: !0,
@@ -9097,7 +9097,7 @@ var hoe = BP((eae, aR) => {
             directory: "pp4/bracketeering",
             categoryId: "BRKGame"
         }, {
-            name: "Civic Doodle",
+            name: "Garabato Cívico",
             tag: "overdrawn",
             wrapper: "marionette",
             isPublic: !0,
@@ -9112,7 +9112,7 @@ var hoe = BP((eae, aR) => {
             directory: "pp5/ydkj2018",
             categoryId: "YDKJ2018Game"
         }, {
-            name: "Split the Room",
+            name: "Divide la Sala",
             tag: "splittheroom",
             wrapper: "marionette",
             isPublic: !0,
@@ -9133,7 +9133,7 @@ var hoe = BP((eae, aR) => {
             directory: "pp5/slingshoot",
             categoryId: "SlingShootGame"
         }, {
-            name: "Patently Stupid",
+            name: "Patentes Dementes",
             tag: "patentlystupid",
             wrapper: "marionette",
             isPublic: !0,
@@ -9148,7 +9148,7 @@ var hoe = BP((eae, aR) => {
             directory: "pp6/triviadeath2",
             categoryId: "TriviaDeath2Game"
         }, {
-            name: "Role Models",
+            name: "Modelo a Seguir",
             tag: "rolemodels",
             wrapper: "marionette",
             isPublic: !0,
@@ -9157,21 +9157,21 @@ var hoe = BP((eae, aR) => {
             categoryId: "RoleModelsGame",
             shopItems: ["shirts"]
         }, {
-            name: "Joke Boat",
+            name: "Crucero Cómico",
             tag: "jokeboat",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp6/jokeboat",
             categoryId: "JokeboatGame"
         }, {
-            name: "Dictionarium",
+            name: "Diccionarium",
             tag: "ridictionary",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp6/ridictionary",
             categoryId: "RidictionaryGame"
         }, {
-            name: "Push the Button",
+            name: "Pulsa el Botón",
             tag: "pushthebutton",
             wrapper: "marionette",
             isPublic: !0,
@@ -9194,7 +9194,7 @@ var hoe = BP((eae, aR) => {
             features: ["moderation"],
             categoryId: "quiplash3Game"
         }, {
-            name: "The Devils and the Details",
+            name: "La Familia es un Infierno",
             tag: "everyday",
             wrapper: "marionette",
             isPublic: !0,
@@ -9211,14 +9211,14 @@ var hoe = BP((eae, aR) => {
             categoryId: "WorldChampionsGame",
             shopItems: ["cards"]
         }, {
-            name: "Blather 'Round",
+            name: "Balbuceando Juntos",
             tag: "blanky-blank",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp7/blanky-blank",
             categoryId: "BlankyBlankGame"
         }, {
-            name: "Job Job",
+            name: "Bajo Trabajo",
             tag: "apply-yourself",
             wrapper: "vue",
             isPublic: !0,
@@ -9226,7 +9226,7 @@ var hoe = BP((eae, aR) => {
             categoryId: "JobGameGame",
             features: ["moderation", "previews"]
         }, {
-            name: "Drawful Animate",
+            name: "Drawful Animado",
             tag: "drawful-animate",
             wrapper: "vue",
             isPublic: !0,
@@ -9234,7 +9234,7 @@ var hoe = BP((eae, aR) => {
             categoryId: "DrawfulAnimateGame",
             features: ["moderation"]
         }, {
-            name: "The Wheel of Enormous Proportions",
+            name: "La Ruleta de Enormes Proporciones",
             tag: "the-wheel",
             wrapper: "vue",
             isPublic: !0,
@@ -9248,7 +9248,7 @@ var hoe = BP((eae, aR) => {
             directory: "pp8/survey-bomb",
             categoryId: "SurveyBombGame"
         }, {
-            name: "Weapons Drawn",
+            name: "Trazo del Crimen",
             tag: "murder-detectives",
             wrapper: "vue",
             isPublic: !0,
@@ -16913,7 +16913,7 @@ de tu lista de partidas anteriores.`,
         },
         tq = {
             LABEL: "RAMA",
-            REFRESH_REQUIRED: "Requiere actualizar",
+            REFRESH_REQUIRED: "Se requiere recargar",
             PREFERRED: "RAMA PREFERIDA",
             SELECT: "Selecciona una rama",
             WAITING: "Esperando una sala"
@@ -16927,67 +16927,67 @@ de tu lista de partidas anteriores.`,
             REJECT_ALL: "No participar"
         },
         nq = {
-            UNSUPPORTED_BROWSER: "El juego no es compatible con este navegador. En '?' o AYUDA puedes ver la lista de navegadores compatibles.",
-            ROOM_IS_FULL: "La partida está completa",
+            UNSUPPORTED_BROWSER: "El juego no es compatible con este navegador. En '?' y AYUDA puedes ver la lista de navegadores compatibles.",
+            ROOM_IS_FULL: "La sala está llena",
             ROOM_NOT_FOUND: "No se encuentra la sala",
             AUDIENCE_IS_FULL: "El público está completo",
             UNABLE_TO_CONNECT: "No podemos conectarte a los servidores de Jackbox Games. Puede ser debido a los bloqueadores de anuncios y las extensiones de privacidad.",
-            UNABLE_TO_PRELOAD: "No se puede precargar este paquete de juegos",
-            KICKED: "No puedes unirte porque un moderador te expulsó",
+            UNABLE_TO_PRELOAD: "No se ha podido precargar este lote de juegos",
+            KICKED: "No puedes unirte porque te ha expulsado un moderador",
             REQUIRES_TWITCH_LOGIN: "Este juego requiere inicio de sesión de Twitch",
-            ROOM_IS_LOCKED: "La partida está bloqueada",
+            ROOM_IS_LOCKED: "La sala está bloqueada",
             INCORRECT_PASSWORD: "Contraseña incorrecta",
-            GENERIC: "Error al unirte a la partida",
-            FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje soez. Elige un nombre diferente."
+            GENERIC: "Error al unirte a la sala",
+            FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje vulgar. Elige un nombre diferente."
         },
         iq = {
             NAME: "NOMBRE",
-            NAME_PLACEHOLDER: "ESCRIBE TU NOMBRE",
-            PASSWORD_PLACEHOLDER: "INGRESA CONTRASEÑA DE 5 DÍGITOS",
+            NAME_PLACEHOLDER: "INDICA TU NOMBRE",
+            PASSWORD_PLACEHOLDER: "INTRODUCE CONTRASEÑA DE 5 DÍGITOS",
             PASSWORD_REQUIRED_TITLE: "Requiere contraseña",
-            PASSWORD_REQUIRED_BODY: "Ingresa la contraseña o únete como parte del público",
+            PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
             PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
-            PASSWORD_JOIN_AS_AUDIENCE: "Unirse al público",
-            ROOM_CODE: "CÓDIGO DE LA SALA",
-            ROOM_CODE_PLACEHOLDER: "INGRESA EL CÓDIGO DE 4 CARACTERES"
+            PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
+            ROOM_CODE: "CÓDIGO DE SALA",
+            ROOM_CODE_PLACEHOLDER: "INTRODUCE EL CÓDIGO DE 4 CARACTERES"
         },
-        sq = "Enlace a la página de inicio de Jackbox Games",
+        sq = "Enlace a la página principal de Jackbox Games",
         oq = {
             APPEARANCE: "APARIENCIA",
-            DARK: "oscura",
+            DARK: "oscuro",
             HELP: "AYUDA",
             TWITCH: "TWITCH",
-            LIGHT: "clara",
+            LIGHT: "claro",
             LOGOUT: "CERRAR SESIÓN",
-            MERCH: "PRODUCTOS",
+            MERCH: "MERCHANDISING",
             PAST_GAMES: "PARTIDAS ANTERIORES",
             MAILING_LIST: "LISTA DE CORREO",
             MODERATOR: "MODERADOR"
         },
         aq = {
             CALL_TO_ACTION: {
-                SHOP: "VER JUEGO Y TIENDA",
-                VIEW: "VER ESTE JUEGO"
+                SHOP: "VER PARTIDA Y TIENDA",
+                VIEW: "VER ESTA PARTIDA"
             },
             NEW: "NUEVO",
-            PLAYED_ON: "SE JUGÓ EN",
+            PLAYED_ON: "JUGADO EL",
             REMOVE: {
-                CONFIRM: "¿De verdad?",
-                DESCRIPTION: `Eliminarás permanentemente este juego
+                CONFIRM: "¿Seguro?",
+                DESCRIPTION: `Esto removerá permanentemente esta partida
 de tu lista de partidas anteriores.`,
-                MANAGE: "¿Eliminar juego?",
-                TITLE: "¿De verdad?"
+                MANAGE: "¿Remover partida?",
+                TITLE: "¿Seguro?"
             }
         },
         cq = {
-            EMPTY: "Aún no hay partidas anteriores",
+            EMPTY: "Aún no hay partidas recientes",
             MANAGE: "ADMINISTRAR",
             TITLE: "TUS PARTIDAS ANTERIORES"
         },
         uq = {
             TITLE: "PARTIDAS RECIENTES",
             VIEW_ALL: {
-                BUTTON: "VER TODOS",
+                BUTTON: "VER TODAS",
                 LINK: "VER TODAS LAS PARTIDAS ANTERIORES"
             }
         },
@@ -17006,7 +17006,7 @@ de tu lista de partidas anteriores.`,
         dq = {
             CAMERA: "[b]AVISO:[/b] No se detecta ninguna cámara, pero igual puedes jugar sin una foto. Si crees que se trata de un error, cambia de navegador.",
             STYLE: "[b]AVISO:[/b] Tu navegador está un poco desactualizado, así que es posible que el juego no se vea del todo bien.",
-            TOS: "Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
+            TOS: "Traducción al español hecha por la comunidad. No afiliada con Jackbox Games. Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
         },
         hq = {
             BRANCH: tq,
@@ -27037,8 +27037,8 @@ ${t}`
         Eie = {
             DISABLED: "Moderación desactivada",
             KICKED: "EXPULSADO",
-            UNSUPPORTED: "Moderación sin soporte",
-            WAITING_FOR_SUBMISSIONS: "Esperando entregas"
+            UNSUPPORTED: "Moderación no soportada",
+            WAITING_FOR_SUBMISSIONS: "Esperando aportaciones"
         },
         yie = {
             DISABLED: "La moderación para esta partida está desactivada. Actívala y reinicia el juego para moderar el contenido.",
@@ -27182,7 +27182,7 @@ ${t}`
                         const e = await this.api.getRoom({
                             code: this.code
                         });
-                        this.$emit("roomDidChange", e), this.$i18n.locale = e.locale
+                        this.$emit("roomDidChange", e)
                     } catch (e) {
                         console.warn(e), this.$emit("roomDidChange", null), this.roomNotFound = !0
                     }
@@ -28065,8 +28065,8 @@ ${t}`
             let r;
             (s = e.room) != null && s.locale && (r = e.room.locale), (o = e.match) != null && o.params.locale && (r = e.match.params.locale), ro.set(r);
             const n = xk({
-                fallbackLocale: "en",
-                locale: ro.locale,
+                fallbackLocale: "es-XL",
+                locale: "es-XL",
                 messages: ro.mergeMessages(jK, wie, Rq)
             });
             return t.use(Lz), t.use(Cee), t.use(Pre), t.use(n), t.use(lne, {
