@@ -20855,143 +20855,143 @@ var moe = ZM((rle, y1) => {
         }
     }
     const G4 = {
-            BACK: "Atrás",
-            CANCEL: "Cancelar",
-            CLOSE: "Cerrar",
-            CONFIRM: "Confirmar",
-            CREATE: "Crear",
-            DELETE: "Borrar",
-            DONE: "Hecho",
-            EDIT: "Editar",
-            OK: "Aceptar",
-            NEXT: "Siguiente",
+            BACK: "Back",
+            CANCEL: "Cancel",
+            CLOSE: "Close",
+            CONFIRM: "Confirm",
+            CREATE: "Create",
+            DELETE: "Delete",
+            DONE: "Done",
+            EDIT: "Edit",
+            OK: "OK",
+            NEXT: "Next",
             NO: "No",
-            PLAY: "Jugar",
-            PUBLISH: "Publicar",
-            REMOVE: "Remover",
-            RESET: "Reiniciar",
-            SUBMIT: "Enviar",
-            TRY_AGAIN: "Volver a intentarlo",
-            UNDO: "Deshacer",
-            YES: "Sí"
+            PLAY: "Play",
+            PUBLISH: "Publish",
+            REMOVE: "Remove",
+            RESET: "Reset",
+            SUBMIT: "Submit",
+            TRY_AGAIN: "Try Again",
+            UNDO: "Undo",
+            YES: "Yes"
         },
         B4 = {
             UGC: {
-                VISIBILITY_CONTROLLER_OFF: "enunucaidos ocultos en los dispositivos de los jugadores",
-                VISIBILITY_CONTROLLER_ON: "enunciados se muestran en los dispositivos de los jugadores",
-                VISIBILITY_SCREEN_OFF: "enunciados ocultos en la pantalla del juego",
-                VISIBILITY_SCREEN_ON: "enunuciados se muestran en la pantalla del juego"
+                VISIBILITY_CONTROLLER_OFF: "prompts hidden on players’ devices",
+                VISIBILITY_CONTROLLER_ON: "prompts shown on players’ devices",
+                VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
+                VISIBILITY_SCREEN_ON: "prompts shown on game screen"
             }
         },
         F4 = {
-            DISCONNECTED: "Te has desconectado.",
-            DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-            PLAYER_KICKED: "Un moderador te ha expulsado de la partida.",
-            ROOM_DESTROYED: "¡Gracias por jugar!",
-            ROOM_DISCONNECTED: "Desconectado",
-            TEXT_NAUGHTY: "Lo siento, no puedes escribir eso. Seamos respetuosos con los demás jugadores.",
-            TEXT_NOTHING: "Tienes que escribir algo",
+            DISCONNECTED: "You have been disconnected.",
+            DRAWING_NOTHING: "You have to draw something!",
+            PLAYER_KICKED: "You have been kicked from the game by a moderator.",
+            ROOM_DESTROYED: "Thanks for playing!",
+            ROOM_DISCONNECTED: "Disconnected",
+            TEXT_NAUGHTY: "I’m afraid you can’t write that. Please be respectful of other players.",
+            TEXT_NOTHING: "You can’t enter nothing!",
             TITLE: "Error"
         },
-        H4 = "CARGANDO",
+        H4 = "LOADING",
         W4 = {
-            JOINED_COUNT: "Se unieron {count} de {maxPlayers} jugadores",
-            PLAYERS_NEEDED: "Se necesita 1 jugador para empezar | Se necesitan {count} jugadores para empezar",
-            WAITING_FOR_VIP: "Esperando a que {name} inicie la partida",
-            WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-            WAITING_FOR_NEW_GAME: "Esperando a que empiece una nueva partida",
-            GAME_STARTING: "La partida va a empezar",
-            BUTTON_START: "Pulsa para empezar",
-            BUTTON_CANCEL: "Pulsa para cancelar"
+            JOINED_COUNT: "{count} of {maxPlayers} players joined",
+            PLAYERS_NEEDED: "1 player needed to start | {count} players needed to start",
+            WAITING_FOR_VIP: "Waiting for {name} to start the game",
+            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
+            WAITING_FOR_NEW_GAME: "Waiting for a new game to start",
+            GAME_STARTING: "Game is starting",
+            BUTTON_START: "Press to Start",
+            BUTTON_CANCEL: "Press to Cancel"
         },
         j4 = {
-            GALLERY_LINK: "Visita la galería",
-            NEW_GAME_STARTED: "Una nueva partida ha comenzado",
-            PLAY_AGAIN: "¿Jugar otra vez?",
-            THANKS_FOR_PLAYING: "¡Gracias por jugar!",
-            BUTTON_GO_TO_GAME: "Ir a la partida",
-            BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
-            BUTTON_SAME_PLAYERS: "Mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+            GALLERY_LINK: "Visit the Gallery",
+            NEW_GAME_STARTED: "A new game has started",
+            PLAY_AGAIN: "Play again?",
+            THANKS_FOR_PLAYING: "Thanks for playing!",
+            BUTTON_GO_TO_GAME: "Go to game",
+            BUTTON_GO_TO_JACKBOX: "Back to jackbox.tv",
+            BUTTON_SAME_PLAYERS: "Same players",
+            BUTTON_NEW_PLAYERS: "New players"
         },
         z4 = {
-            AND: "Y",
-            OR: "O"
+            AND: "AND",
+            OR: "OR"
         },
         q4 = {
-            BUTTON_SKIP: "Omitir",
-            BUTTON_NEXT: "Siguiente",
-            BUTTON_DONE: "¡Vamos!"
+            BUTTON_SKIP: "Skip",
+            BUTTON_NEXT: "Next",
+            BUTTON_DONE: "Let’s Go!"
         },
         Y4 = {
             NAME: "AUDIENCE"
         },
         V4 = {
             CART: {
-                CHECK_OUT: "Comprar ahora",
-                EMPTY: "Tu carrito está vacío",
-                TITLE: "Carrito de compras",
+                CHECK_OUT: "Check out",
+                EMPTY: "Your cart is empty",
+                TITLE: "Shopping Cart",
                 TOTAL: "Total"
             }
         },
         K4 = {
-            EPISODE_REPORT: "Denunciar episodio",
-            EPISODE_UNLOAD: "Retirar episodio",
-            EPISODE_VIEW_AUTHOR: "Ver autor",
-            EPISODES_LOAD: "Carga un episodio por ID:",
-            EPISODES_MENU: "Menú de episodios",
-            EPISODES_SELECT: "O selecciona un episodio:",
-            EPISODES_WARNING: "Aviso: El contenido de los usuarios no tiene clasificación de edad",
+            EPISODE_REPORT: "Report Episode",
+            EPISODE_UNLOAD: "Unload Episode",
+            EPISODE_VIEW_AUTHOR: "View Author",
+            EPISODES_LOAD: "Load an episode by id:",
+            EPISODES_MENU: "Episodes Menu",
+            EPISODES_SELECT: "Or select an epsiode:",
+            EPISODES_WARNING: "Warning: user generated content is not rated",
             INSTRUCTION: {
-                CREATE_TITLE: "Lo primero es que debes hacer es introducir un nombre para el episodio que contendrá todas sus indicaciones y pulsar crear.",
-                LOAD: "¿crear o cargar?",
-                PUBLISH: "publica tu episodio",
-                TITLE: "nombra tu episodio",
-                TOGGLE_VISIBILITY: "pulsa para mostrar/ocultar las indicaciones",
-                WRITE: "escribe tus indicaciones"
+                CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
+                LOAD: "create or load?",
+                PUBLISH: "publish your episode",
+                TITLE: "name your episode",
+                TOGGLE_VISIBILITY: "tap to show/hide prompts",
+                WRITE: "write your prompts"
             },
             WARNING: {
-                DELETE: "¿Estás seguro de que quieres borrar este episodio?",
-                TOS: "Al compartir contenido, aceptas nuestros [tos]Términos de servicio[/tos]",
-                TOS_AGREE: "aceptar y compartir"
+                DELETE: "Are you sure you want to delete this episode?",
+                TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
+                TOS_AGREE: "agree and share"
             },
-            BACK_TO_EPISODES: "volver a los episodios",
-            BACK_TO_MENU: "volver al menú",
-            CREATE_NEW_EPISODE: "crear un nuevo episodio",
-            PREVIOUS_EPISODES: "episodios anteriores",
-            PROMPT_ADD: "añadir indicación",
-            PROMPT_PLACEHOLDER: "introducir una indicación",
-            PROMPTS_COUNT_HIDDEN: "({count} oculto)",
-            TITLE_PLACEHOLDER: "introducir un título"
+            BACK_TO_EPISODES: "back to episodes",
+            BACK_TO_MENU: "back to menu",
+            CREATE_NEW_EPISODE: "create a new episode",
+            PREVIOUS_EPISODES: "previous episodes",
+            PROMPT_ADD: "add prompt",
+            PROMPT_PLACEHOLDER: "enter a prompt",
+            PROMPTS_COUNT_HIDDEN: "({count} hidden)",
+            TITLE_PLACEHOLDER: "enter a title"
         },
         X4 = {
             BROADCASTER: {
-                SUBTEXT: "Has conectado correctamente tu cuenta a la extensión para Twitch del kit para público de Jackbox.",
-                WARNING: "ESTA SALA NO TIENE ACTIVADA LA OPCIÓN DE PÚBLICO"
+                SUBTEXT: "You have successfully connected your account to the Jackbox Audience Kit Twitch Extension.",
+                WARNING: "THIS ROOM DOESN'T HAVE THE AUDIENCE SETTING ENABLED"
             },
             RECONNECTED: {
-                TEXT: "CONEXIÓN RESTABLECIDA",
-                SUBTEXT: "¡Diviértete!"
+                TEXT: "RECONNECTED",
+                SUBTEXT: "Have fun!"
             },
             RECONNECTING: {
                 CONTROLLER: {
-                    TEXT: "CONEXIÓN INTERRUMPIDA",
-                    SUBTEXT: "Intento de reconexión ({attempt} de 5)"
+                    TEXT: "CONNECTION INTERRUPTED",
+                    SUBTEXT: "Attempting to reconnect ({attempt} of 5)"
                 },
                 GAME: {
-                    TEXT: "SE INTERRUMPIÓ LA CONEXIÓN AL JUEGO",
-                    SUBTEXT: "Por favor, espera mientras intentamos restablecer la conexión."
+                    TEXT: "GAME CONNECTION INTERRUPTED",
+                    SUBTEXT: "Please wait while we attempt to reconnect"
                 }
             },
             PAUSED: {
-                TEXT: "EL JUEGO ESTÁ PAUSADO",
-                SUBTEXT: "Todo lo que envíes se enviará igualmente al juego."
+                TEXT: "THE GAME IS PAUSED",
+                SUBTEXT: "Anything you submit will still be sent to the game."
             }
         },
         J4 = {
-            SHARE: "Compartir",
-            COPY_TO_CLIPBOARD: "Copiar al portapapeles",
-            COPIED: "Se copió"
+            SHARE: "Share",
+            COPY_TO_CLIPBOARD: "Copy to clipboard",
+            COPIED: "Copied"
         },
         Q4 = {
             ACTION: G4,
@@ -21064,7 +21064,7 @@ var moe = ZM((rle, y1) => {
             PLAY_AGAIN: "Rejouer ?",
             THANKS_FOR_PLAYING: "Merci d'avoir joué !",
             BUTTON_GO_TO_GAME: "Aller au jeu",
-            BUTTON_GO_TO_JACKBOX: "Retour à jackbox.lol",
+            BUTTON_GO_TO_JACKBOX: "Retour à jackbox.tv",
             BUTTON_SAME_PLAYERS: "Mêmes joueurs",
             BUTTON_NEW_PLAYERS: "Nouveaux joueurs"
         },
@@ -21218,7 +21218,7 @@ var moe = ZM((rle, y1) => {
             PLAY_AGAIN: "Vuoi giocare di nuovo?",
             THANKS_FOR_PLAYING: "Grazie per aver scelto di giocare con noi!",
             BUTTON_GO_TO_GAME: "Vai al gioco",
-            BUTTON_GO_TO_JACKBOX: "Torna a jackbox.lol",
+            BUTTON_GO_TO_JACKBOX: "Torna a jackbox.tv",
             BUTTON_SAME_PLAYERS: "Stessi giocatori",
             BUTTON_NEW_PLAYERS: "Nuovi giocatori"
         },
@@ -21372,7 +21372,7 @@ var moe = ZM((rle, y1) => {
             PLAY_AGAIN: "Erneut spielen?",
             THANKS_FOR_PLAYING: "Danke fürs Spielen!",
             BUTTON_GO_TO_GAME: "Zum Spiel",
-            BUTTON_GO_TO_JACKBOX: "Zurück zu jackbox.lol",
+            BUTTON_GO_TO_JACKBOX: "Zurück zu jackbox.tv",
             BUTTON_SAME_PLAYERS: "Selbe Spieler",
             BUTTON_NEW_PLAYERS: "Neue Spieler"
         },
@@ -21526,8 +21526,8 @@ var moe = ZM((rle, y1) => {
             PLAY_AGAIN: "¿Jugar otra vez?",
             THANKS_FOR_PLAYING: "¡Gracias por jugar!",
             BUTTON_GO_TO_GAME: "Ir a al juego",
-            BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
-            BUTTON_SAME_PLAYERS: "Mismos jugadores",
+            BUTTON_GO_TO_JACKBOX: "Volver a jackbox.tv",
+            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
             BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         Y5 = {
@@ -21834,7 +21834,7 @@ var moe = ZM((rle, y1) => {
             PLAY_AGAIN: "Jogar de novo?",
             THANKS_FOR_PLAYING: "Obrigado por jogar!",
             BUTTON_GO_TO_GAME: "Ir para o jogo",
-            BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.lol",
+            BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.tv",
             BUTTON_SAME_PLAYERS: "Mesmos jogadores",
             BUTTON_NEW_PLAYERS: "Outros jogadores"
         },
@@ -31961,101 +31961,101 @@ ${e}`
         };
     Rn("");
     const wne = {
-            LABEL: "RAMA",
-            REFRESH_REQUIRED: "Se requiere recargar",
-            PREFERRED: "RAMA PREFERIDA",
-            SELECT: "Selecciona una rama",
-            WAITING: "Esperando una sala"
+            LABEL: "BRANCH",
+            REFRESH_REQUIRED: "Refresh Required",
+            PREFERRED: "PREFERRED BRANCH",
+            SELECT: "Select a Branch",
+            WAITING: "Waiting for Room"
         },
         Sne = {
-            ACCEPT_ALL: "¡Entendido!",
+            ACCEPT_ALL: "Got it!",
             CONSENT_MODAL: {
-                ARIA: "Formulario de consentimiento de cookies"
+                ARIA: "Cookie consent form"
             },
-            DESCRIPTION: "Usamos cookies para mejorar tu experiencia de juego y analizar el tráfico del sitio web. Obtén más información en nuestra [pp]Política de privacidad[/pp].",
-            REJECT_ALL: "Rechazar"
+            DESCRIPTION: "We use cookies to improve your game experience and analyze website traffic. Find out more in our [pp]Privacy Policy[/pp].",
+            REJECT_ALL: "Opt out"
         },
         One = {
-            UNSUPPORTED_BROWSER: "El juego no es compatible con este navegador. En '?' y AYUDA puedes ver la lista de navegadores compatibles.",
-            ROOM_IS_FULL: "La sala está llena",
-            ROOM_NOT_FOUND: "No se encuentra la sala",
-            AUDIENCE_IS_FULL: "El público está completo",
-            UNABLE_TO_CONNECT: "No podemos conectarte a los servidores de Jackbox Games. Puede ser debido a los bloqueadores de anuncios y las extensiones de privacidad.",
-            UNABLE_TO_PRELOAD: "No se ha podido precargar este lote de juegos",
-            KICKED: "No puedes unirte porque te ha expulsado un moderador",
-            REQUIRES_TWITCH_LOGIN: "Este juego requiere inicio de sesión de Twitch",
-            ROOM_IS_LOCKED: "La sala está bloqueada",
-            INCORRECT_PASSWORD: "Contraseña incorrecta",
-            GENERIC: "Error al unirte a la sala",
-            FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje vulgar. Elige un nombre diferente."
+            UNSUPPORTED_BROWSER: "This game is not supported on this browser. View '?' or HELP to see a list of compatible browsers.",
+            ROOM_IS_FULL: "The game is full",
+            ROOM_NOT_FOUND: "Room not found",
+            AUDIENCE_IS_FULL: "The audience is full",
+            UNABLE_TO_CONNECT: "Unable to connect to the Jackbox Games server. This is commonly caused by adblockers or privacy extensions.",
+            UNABLE_TO_PRELOAD: "Unable to preload this game bundle",
+            KICKED: "You cannot join because you have been kicked by a moderator",
+            REQUIRES_TWITCH_LOGIN: "Game requires Twitch login",
+            ROOM_IS_LOCKED: "Game is locked",
+            INCORRECT_PASSWORD: "Incorrect password",
+            GENERIC: "Error joining this game",
+            FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         Ane = {
-            NAME: "NOMBRE",
-            NAME_PLACEHOLDER: "INDICA TU NOMBRE",
-            PASSWORD_PLACEHOLDER: "INTRODUCE CONTRASEÑA DE 5 DÍGITOS",
-            PASSWORD_REQUIRED_TITLE: "Requiere contraseña",
-            PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
-            PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
-            PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
-            ROOM_CODE: "CÓDIGO DE SALA",
-            ROOM_CODE_PLACEHOLDER: "INTRODUCE EL CÓDIGO DE 4 CARACTERES"
+            NAME: "NAME",
+            NAME_PLACEHOLDER: "ENTER YOUR NAME",
+            PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
+            PASSWORD_REQUIRED_TITLE: "Password required",
+            PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
+            PASSWORD_JOIN_AS_PLAYER: "Join as Player",
+            PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
+            ROOM_CODE: "ROOM CODE",
+            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
         },
-        Ine = "Enlace a la página principal de Jackbox Games",
+        Ine = "Link to Jackbox Games Homepage",
         Cne = {
-            APPEARANCE: "APARIENCIA",
-            DARK: "oscuro",
-            HELP: "AYUDA",
+            APPEARANCE: "APPEARANCE",
+            DARK: "dark",
+            HELP: "HELP",
             TWITCH: "TWITCH",
-            LIGHT: "claro",
-            LOGOUT: "SALIR",
-            MERCH: "MERCHANDISING",
-            PAST_GAMES: "PARTIDAS ANTERIORES",
-            MAILING_LIST: "LISTA DE CORREO",
-            MODERATOR: "MODERADOR"
+            LIGHT: "light",
+            LOGOUT: "LOGOUT",
+            MERCH: "MERCH",
+            PAST_GAMES: "PAST GAMES",
+            MAILING_LIST: "MAILING LIST",
+            MODERATOR: "MODERATOR"
         },
         Rne = {
             CALL_TO_ACTION: {
-                SHOP: "VER PARTIDA Y TIENDA",
-                VIEW: "VER ESTA PARTIDA"
+                SHOP: "VIEW GAME & SHOP",
+                VIEW: "VIEW THIS GAME"
             },
-            NEW: "NUEVO",
-            PLAYED_ON: "JUGADO EL",
+            NEW: "NEW",
+            PLAYED_ON: "PLAYED ON",
             REMOVE: {
-                CONFIRM: "¿Seguro?",
-                DESCRIPTION: `Esto removerá permanentemente esta partida
-de tu lista de partidas anteriores.`,
-                MANAGE: "¿Remover partida?",
-                TITLE: "¿Seguro?"
+                CONFIRM: "Are you sure?",
+                DESCRIPTION: `This will permanently remove this game
+from your past games list.`,
+                MANAGE: "Remove Game?",
+                TITLE: "Are You Sure?"
             }
         },
         Lne = {
-            EMPTY: "Aún no hay partidas recientes",
-            MANAGE: "ADMINISTRAR",
-            TITLE: "TUS PARTIDAS ANTERIORES"
+            EMPTY: "No Past Games Yet",
+            MANAGE: "MANAGE",
+            TITLE: "YOUR PAST GAMES"
         },
         Nne = {
-            TITLE: "PARTIDAS RECIENTES",
+            TITLE: "RECENT GAMES",
             VIEW_ALL: {
-                BUTTON: "VER TODAS",
-                LINK: "VER TODAS LAS PARTIDAS ANTERIORES"
+                BUTTON: "VIEW ALL",
+                LINK: "VIEW ALL PAST GAMES"
             }
         },
         Pne = {
-            GAME_FULL: "La partida está completa",
-            GAME_STARTED: "La partida ha empezado",
-            ROOM_NOT_FOUND: "No se encuentra la sala"
+            GAME_FULL: "Game is full",
+            GAME_STARTED: "Game has started",
+            ROOM_NOT_FOUND: "Room not found"
         },
         xne = {
-            GAME_FULL: "LA PARTIDA ESTÁ COMPLETA",
-            GAME_STARTED: "LA PARTIDA HA EMPEZADO",
-            JOIN_AUDIENCE: "UNIRSE AL PÚBLICO",
-            RECONNECT: "RECONECTAR",
-            TWITCH_LOGIN: "INICIAR SESIÓN CON TWITCH"
+            GAME_FULL: "GAME IS FULL",
+            GAME_STARTED: "GAME HAS STARTED",
+            JOIN_AUDIENCE: "JOIN AUDIENCE",
+            RECONNECT: "RECONNECT",
+            TWITCH_LOGIN: "LOGIN WITH TWITCH"
         },
         Mne = {
-            CAMERA: "[b]AVISO:[/b] No se detecta ninguna cámara, pero puedes jugar sin hacerte una foto. Si crees que se trata de un error, cambia de navegador.",
-            STYLE: "[b]AVISO:[/b] Tu navegador está un poco desactualizado, así que es posible que el juego no se vea del todo bien.",
-            TOS: "Traducción al español hecha por la comunidad. No afiliada con Jackbox Games. Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
+            CAMERA: "[b]HEADS UP:[/b] We’re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
+            STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
+            TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
         },
         $ne = {
             BRANCH: wne,
@@ -32431,27 +32431,27 @@ deiner bisherigen Spiele entfernen.`,
             ROOM_IS_LOCKED: "El juego está bloqueado",
             INCORRECT_PASSWORD: "Contraseña incorrecta",
             GENERIC: "Error al unirte al juego",
-            FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje vulgar. Elige un nombre diferente."
+            FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje malsonante. Elige un nombre diferente."
         },
         Sie = {
             NAME: "NOMBRE",
             NAME_PLACEHOLDER: "INDICA TU NOMBRE",
-            PASSWORD_PLACEHOLDER: "INTRODUCE CONTRASEÑA DE 5 DÍGITOS",
-            PASSWORD_REQUIRED_TITLE: "Requiere contraseña",
+            PASSWORD_PLACEHOLDER: "INTRODUCIR CONTRASEÑA DE 5 DÍGITOS",
+            PASSWORD_REQUIRED_TITLE: "Hace falta una contraseña",
             PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
             PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
             PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
-            ROOM_CODE: "CÓDIGO DE SALA",
-            ROOM_CODE_PLACEHOLDER: "INTRODUCE EL CÓDIGO DE 4 CARACTERES"
+            ROOM_CODE: "CÓDIGO DE LA SALA",
+            ROOM_CODE_PLACEHOLDER: "INTRODUCIR CÓDIGO DE 4 CARACTERES"
         },
-        Oie = "Enlace a la página principal de Jackbox Games",
+        Oie = "Enlace a la página inicial de Jackbox Games",
         Aie = {
             APPEARANCE: "APARIENCIA",
             DARK: "oscura",
             HELP: "AYUDA",
             TWITCH: "TWITCH",
             LIGHT: "clara",
-            LOGOUT: "SALIR",
+            LOGOUT: "CERRAR SESIÓN",
             MERCH: "MERCHANDISING",
             PAST_GAMES: "PARTIDAS ANTERIORES",
             MAILING_LIST: "LISTA DE CORREO",
@@ -32459,28 +32459,28 @@ deiner bisherigen Spiele entfernen.`,
         },
         Iie = {
             CALL_TO_ACTION: {
-                SHOP: "VER PARTIDA Y TIENDA",
-                VIEW: "VER ESTA PARTIDA"
+                SHOP: "VER JUEGO Y COMPRAR",
+                VIEW: "VER ESTE JUEGO"
             },
             NEW: "NUEVO",
-            PLAYED_ON: "JUGADO EL",
+            PLAYED_ON: "SE JUEGA EN",
             REMOVE: {
-                CONFIRM: "¿Seguro?",
-                DESCRIPTION: `Esto removerá permanentemente esta partida
+                CONFIRM: "¿Estás seguro?",
+                DESCRIPTION: `Esto eliminará de forma permanente esta partida
 de tu lista de partidas anteriores.`,
-                MANAGE: "¿Remover partida?",
-                TITLE: "¿Seguro?"
+                MANAGE: "¿Retirar partida?",
+                TITLE: "¿Estás seguro?"
             }
         },
         Cie = {
-            EMPTY: "Aún no hay partidas recientes",
+            EMPTY: "Todavía no hay partidas anteriores",
             MANAGE: "ADMINISTRAR",
-            TITLE: "TUS PARTIDAS ANTERIORES"
+            TITLE: "PARTIDAS ANTERIORES"
         },
         Rie = {
             TITLE: "PARTIDAS RECIENTES",
             VIEW_ALL: {
-                BUTTON: "VER TODAS",
+                BUTTON: "VER TODO",
                 LINK: "VER TODAS LAS PARTIDAS ANTERIORES"
             }
         },
@@ -32499,7 +32499,7 @@ de tu lista de partidas anteriores.`,
         Pie = {
             CAMERA: "[b]AVISO:[/b] No se detecta ninguna cámara, pero puedes jugar sin foto. Si crees que se trata de un error, cambia de navegador.",
             STYLE: "[b]AVISO:[/b] Tu navegador está un poco desactualizado, así que es posible que el juego no se vea del todo bien.",
-            TOS: "Traducción al español hecha por la comunidad. No afiliada con Jackbox Games. Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
+            TOS: "Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
         },
         xie = {
             BRANCH: bie,
@@ -33098,7 +33098,7 @@ de sua lista de jogos anteriores.`,
                         const t = await this.api.getRoom({
                             code: this.code
                         });
-                        this.room = t, this.warnings = await P4.warningsForAppTag(t.appTag), this.$i18n.locale = this.room.locale;
+                        this.room = t, this.warnings = await P4.warningsForAppTag(t.appTag);
                         const e = this.getBranchForRoom();
                         if (!e) return;
                         this.branch = e, await this.preloadBundle()
@@ -34188,8 +34188,8 @@ de sua lista de jogos anteriores.`,
                 r;
             (i = t.match) != null && i.params.locale && (r = t.match.params.locale), Ds.set(r);
             const n = KU({
-                fallbackLocale: "en",
-                locale: Ds.locale,
+                fallbackLocale: "es-XL",
+                locale: "es-XL",
                 messages: Ds.mergeMessages(R6, ba)
             });
             return e.use(PQ), e.use(yre), e.use(n), e.use(Qre, {
