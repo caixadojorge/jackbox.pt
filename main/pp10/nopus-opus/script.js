@@ -7852,7 +7852,7 @@ class wh {
         return this.artifacts.some(e => !e.isViewed)
     }
     getUrl(e, n) {
-        return n.galleryId ? `/gallery/${n.galleryId}/${e.artifactId}` : e.isTest ? `http://games-test.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/` : `https://games.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/`
+        return n.galleryId ? `https://jackbox.tv/gallery/${n.galleryId}/${e.artifactId}` : e.isTest ? `http://games-test.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/` : `https://games.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/`
     }
     getLocalArtifact(e) {
         const n = new Intl.DateTimeFormat(kl.locale, {
