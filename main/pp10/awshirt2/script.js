@@ -13774,7 +13774,7 @@ var Pge = PA((Tme, t7) => {
             return this.artifacts.some(e => !e.isViewed)
         }
         getUrl(e, r) {
-            return r.galleryId ? `https://jackbox.tv/gallery/${r.galleryId}/${e.artifactId}` : e.isTest ? `http://games-test.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/` : `https://games.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/`
+            return r.galleryId ? `/gallery/${r.galleryId}/${e.artifactId}` : e.isTest ? `http://games-test.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/` : `https://games.jackbox.tv/artifact/${e.categoryId}/${e.artifactId}/`
         }
         getLocalArtifact(e) {
             const r = new Intl.DateTimeFormat(Na.locale, {
