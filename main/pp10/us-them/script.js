@@ -8204,7 +8204,7 @@ var Gfe = Qk((Cde, EA) => {
             return this.artifacts.some(t => !t.isViewed)
         }
         getUrl(t, r) {
-            return r.galleryId ? `/gallery/${r.galleryId}/${t.artifactId}` : t.isTest ? `http://games-test.jackbox.tv/artifact/${t.categoryId}/${t.artifactId}/` : `https://games.jackbox.tv/artifact/${t.categoryId}/${t.artifactId}/`
+            return r.galleryId ? `https://jackbox.tv/gallery/${r.galleryId}/${t.artifactId}` : t.isTest ? `http://games-test.jackbox.tv/artifact/${t.categoryId}/${t.artifactId}/` : `https://games.jackbox.tv/artifact/${t.categoryId}/${t.artifactId}/`
         }
         getLocalArtifact(t) {
             const r = new Intl.DateTimeFormat(go.locale, {
