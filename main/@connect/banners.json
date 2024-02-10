@@ -2,12 +2,6 @@
     "bannerAds": [
         {
             "start": "2020-10-15",
-            "text": "¡Juego traducido y doblado!",
-            "src": "/main/@connect/assets/UYWTranslationDubPromo.png",
-            "href": "https://traducciones.jackbox.lol/novedades/"
-        },
-        {
-            "start": "2020-10-15",
             "text": "¡Nuestras traducciones!",
             "src": "/main/@connect/assets/sitioweb.png",
             "href": "https://traducciones.jackbox.lol/"
