@@ -28416,7 +28416,7 @@ ${t}`
         },
         ioe = {
             CONFIRMATION: "Vas a viajar al año",
-            SETUP: "Viajar al año...",
+            SETUP: "Viaja al año en que...",
             SUBMIT: "IR"
         },
         soe = {
@@ -28477,7 +28477,7 @@ ${t}`
         },
         hoe = {
             CONFIRMATION: "Viajarás al año",
-            SETUP: "Viaja al año...",
+            SETUP: "Viaja al año en que...",
             SUBMIT: "¡VAMOS!"
         },
         poe = {
