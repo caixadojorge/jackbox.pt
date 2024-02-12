@@ -36829,7 +36829,7 @@ const Uoe = Ur(woe, [
                 this.banners = [{
                     url: "https://www.jackboxgames.com/packs/the-jackbox-party-pack-10?utm_source=jbgtvpp10&utm_medium=jbgtvpp10&utm_campaign=jbgtvpp10",
                     image: "https://cdn.jackboxgames.com/banner-images/pp10.png",
-                    text: "AVAILABLE NOW!"
+                    text: "¡YA DISPONIBLE!"
                 }]
             },
             isValidBanner(t) {
