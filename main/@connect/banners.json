@@ -14,7 +14,7 @@
     },
     {
       "locale": "es",
-      "text": "EN VENTE ! 9.99€",
+      "text": "¡Nuestro Discord!",
       "src": "/main/@connect/assets/discord.png",
       "href": "https://discord.com/invite/tmwF8sEfTp"
     },
@@ -27,7 +27,7 @@
     {
       "locale": "es",
       "text": "¡Página en catalán!",
-      "src": "/main/@connect/assets/catalan.pngg",
+      "src": "/main/@connect/assets/catalan.png",
       "href": "https://jackbox.cat/"
     }
   ]
