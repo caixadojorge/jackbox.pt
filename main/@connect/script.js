@@ -35742,13 +35742,13 @@ de tu lista de partidas anteriores.`,
     Qse = {
         NAME: "NOMBRE",
         NAME_PLACEHOLDER: "INDICA TU NOMBRE",
-        PASSWORD_PLACEHOLDER: "INTRODUCIR CONTRASEÑA DE 5 DÍGITOS",
-        PASSWORD_REQUIRED_TITLE: "Hace falta una contraseña",
+        PASSWORD_PLACEHOLDER: "INTRODUCE CONTRASEÑA DE 5 DÍGITOS",
+        PASSWORD_REQUIRED_TITLE: "Requiere contraseña",
         PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
         PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
         PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
-        ROOM_CODE: "CÓDIGO DE LA SALA",
-        ROOM_CODE_PLACEHOLDER: "INTRODUCIR CÓDIGO DE 4 CARACTERES"
+        ROOM_CODE: "CÓDIGO DE SALA",
+        ROOM_CODE_PLACEHOLDER: "INTRODUCE EL CÓDIGO DE 4 CARACTERES"
     },
     eae = "Enlace a la página principal de Jackbox Games",
     tae = {
@@ -36827,9 +36827,9 @@ const Uoe = Ur(woe, [
             },
             showDefault() {
                 this.banners = [{
-                    url: "https://www.jackboxgames.com/packs/the-jackbox-party-pack-10?utm_source=jbgtvpp10&utm_medium=jbgtvpp10&utm_campaign=jbgtvpp10",
-                    image: "https://cdn.jackboxgames.com/banner-images/pp10.png",
-                    text: "¡YA DISPONIBLE!"
+                    url: "https://traducciones.jackbox.lol/",
+                    image: "/main/@connect/assets/sitioweb.png",
+                    text: "¡Nuestras traducciones!"
                 }]
             },
             isValidBanner(t) {
