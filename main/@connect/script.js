@@ -35607,7 +35607,7 @@ deiner bisherigen Spiele entfernen.`,
         WAITING: "Esperando la sala"
     },
     $se = {
-        ACCEPT_ALL: "¡Vale!",
+        ACCEPT_ALL: "¡Bien!",
         CONSENT_MODAL: {
             ARIA: "Formulario de consentimiento para el uso de cookies"
         },
@@ -35636,7 +35636,7 @@ deiner bisherigen Spiele entfernen.`,
         PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
         PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
         PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
-        ROOM_CODE: "CÓDIGO DE LA SALA",
+        ROOM_CODE: "CÓDIGO DE SALA",
         ROOM_CODE_PLACEHOLDER: "INTRODUCIR CÓDIGO DE 4 CARACTERES"
     },
     Gse = "Enlace a la página inicial de Jackbox Games",
@@ -35741,14 +35741,14 @@ de tu lista de partidas anteriores.`,
     },
     Qse = {
         NAME: "NOMBRE",
-        NAME_PLACEHOLDER: "ESCRIBE TU NOMBRE",
-        PASSWORD_PLACEHOLDER: "INGRESA CONTRASEÑA DE 5 DÍGITOS",
-        PASSWORD_REQUIRED_TITLE: "Requiere contraseña",
-        PASSWORD_REQUIRED_BODY: "Ingresa la contraseña o únete como parte del público",
+        NAME_PLACEHOLDER: "INDICA TU NOMBRE",
+        PASSWORD_PLACEHOLDER: "INTRODUCIR CONTRASEÑA DE 5 DÍGITOS",
+        PASSWORD_REQUIRED_TITLE: "Hace falta una contraseña",
+        PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
         PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
-        PASSWORD_JOIN_AS_AUDIENCE: "Unirse al público",
+        PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
         ROOM_CODE: "CÓDIGO DE LA SALA",
-        ROOM_CODE_PLACEHOLDER: "INGRESA EL CÓDIGO DE 4 CARACTERES"
+        ROOM_CODE_PLACEHOLDER: "INTRODUCIR CÓDIGO DE 4 CARACTERES"
     },
     eae = "Enlace a la página principal de Jackbox Games",
     tae = {
