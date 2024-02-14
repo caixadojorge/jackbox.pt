@@ -22868,7 +22868,7 @@ const wc = ph.exports,
         </div>
 
         <div id="state-vote" class="pt-page-off awshirt-page container">
-            <p class="awshirt-text-instruction">¡Elige tu favorito!</p>
+            <p class="awshirt-text-instruction">¡Elige tu favorita!</p>
             <div id="vote-buttons" class="pure-form awshirt-vote-buttons awshirt-text"></div>
         </div>
         
