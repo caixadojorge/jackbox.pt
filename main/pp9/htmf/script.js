@@ -19628,7 +19628,7 @@ class iy {
     }
     static html(e) {
         if (String(e).match(/<fart>/g)) {
-            const n = new Audio(new URL("main/pp9/htmf/assets/YVsrF-nO.wav", import.meta.url).href);
+            const n = new Audio(new URL("assets/YVsrF-nO.wav", import.meta.url).href);
             n.volume = .1, n.play()
         }
         const r = /<(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>/g;
@@ -20471,7 +20471,7 @@ const zK = {
         THANKS_FOR_PLAYING: "¡Gracias por jugar!",
         BUTTON_GO_TO_GAME: "Ir a la partida",
         BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
-        BUTTON_SAME_PLAYERS: "Los mismos jugadores",
+        BUTTON_SAME_PLAYERS: "Mismos jugadores",
         BUTTON_NEW_PLAYERS: "Nuevos jugadores"
     },
     mV = {
@@ -28321,11 +28321,11 @@ const sb = Ks(TQ),
             }
         }
     }),
-    ab = "main/pp9/htmf/assets/yxqJoDZv.png",
-    ob = "main/pp9/htmf/assets/fAtd_-Yh.png",
-    vQ = "main/pp9/htmf/assets/2gLGftaD.png",
-    yQ = "main/pp9/htmf/assets/tJwNIa6e.png",
-    bQ = "main/pp9/htmf/assets/Py2Q4DGH.png",
+    ab = "assets/yxqJoDZv.png",
+    ob = "assets/fAtd_-Yh.png",
+    vQ = "assets/2gLGftaD.png",
+    yQ = "assets/tJwNIa6e.png",
+    bQ = "assets/Py2Q4DGH.png",
     fn = t => (Ds("data-v-2c53389f"), t = t(), ks(), t),
     xQ = {
         class: "jbg"
@@ -31826,9 +31826,9 @@ const jie = {
             dismissText: String
         }
     }),
-    Wie = "main/pp9/htmf/assets/cJZ5etop.png",
-    Xie = "main/pp9/htmf/assets/zfGFf4oR.png",
-    qie = "main/pp9/htmf/assets/7_tk-HxY.png",
+    Wie = "assets/cJZ5etop.png",
+    Xie = "assets/zfGFf4oR.png",
+    qie = "assets/7_tk-HxY.png",
     Yie = {
         key: 0,
         class: "image",
@@ -36197,11 +36197,11 @@ Es posible que aparezcan en el juego algunas variaciones de tu nombre.`
         es: Wle,
         "es-XL": uue
     },
-    cue = "main/pp9/htmf/assets/-4dHlnOP.png",
-    pue = "main/pp9/htmf/assets/u-moaqq_.png",
-    hue = "main/pp9/htmf/assets/bKn-0NZX.png",
-    Eue = "main/pp9/htmf/assets/DAI61TEN.png",
-    due = "main/pp9/htmf/assets/e0_W1Q5-.png",
+    cue = "assets/-4dHlnOP.png",
+    pue = "assets/u-moaqq_.png",
+    hue = "assets/bKn-0NZX.png",
+    Eue = "assets/DAI61TEN.png",
+    due = "assets/e0_W1Q5-.png",
     gue = gt({
         props: {
             avatar: String,
@@ -36289,45 +36289,45 @@ const Iue = at(gue, [
         ["render", Nue],
         ["__scopeId", "data-v-30ef2333"]
     ]),
-    Oue = "main/pp9/htmf/assets/78rlbB8o.png",
-    wue = "main/pp9/htmf/assets/_idQNOyK.png",
-    Uue = "main/pp9/htmf/assets/P4tNNoPd.png",
-    Bue = "main/pp9/htmf/assets/3dX79KA3.png",
-    $ue = "main/pp9/htmf/assets/90_1t3M_.png",
-    Pue = "main/pp9/htmf/assets/QMtBZx3S.png",
-    Due = "main/pp9/htmf/assets/_08Wtvsi.png",
-    kue = "main/pp9/htmf/assets/iczdq-jA.png",
-    Kue = "main/pp9/htmf/assets/rBpv1uKb.png",
-    Mue = "main/pp9/htmf/assets/4kzhgpy7.png",
-    Vue = "main/pp9/htmf/assets/nvKgj926.png",
-    Gue = "main/pp9/htmf/assets/Usybp8AJ.png",
-    Fue = "main/pp9/htmf/assets/4kzhgpy7.png",
-    jue = "main/pp9/htmf/assets/nvKgj926.png",
-    Hue = "main/pp9/htmf/assets/Usybp8AJ.png",
-    Wue = "main/pp9/htmf/assets/cGqHBe_g.png",
-    Xue = "main/pp9/htmf/assets/EOJIhf-N.png",
-    que = "main/pp9/htmf/assets/kKOrfVEt.png",
-    Yue = "main/pp9/htmf/assets/jh7faDwu.png",
-    zue = "main/pp9/htmf/assets/mCGtoyH7.png",
-    Jue = "main/pp9/htmf/assets/Txfy4RmU.png",
-    Zue = "main/pp9/htmf/assets/P8VdUxUj.png",
-    Que = "main/pp9/htmf/assets/1c_VAFRu.png",
-    efe = "main/pp9/htmf/assets/cqc7RiG-.png",
-    tfe = "main/pp9/htmf/assets/iWm8LWqs.png",
-    rfe = "main/pp9/htmf/assets/C4aW3_Uy.png",
-    nfe = "main/pp9/htmf/assets/CVgpjRz9.png",
-    ife = "main/pp9/htmf/assets/nDweU-bj.png",
-    sfe = "main/pp9/htmf/assets/P-hSZBbX.png",
-    afe = "main/pp9/htmf/assets/ZtRREn8U.png",
-    ofe = "main/pp9/htmf/assets/D9z_Oq3R.png",
-    lfe = "main/pp9/htmf/assets/haajr9W9.png",
-    ufe = "main/pp9/htmf/assets/u9Evv6HI.png",
-    ffe = "main/pp9/htmf/assets/wyvlj99D.png",
-    cfe = "main/pp9/htmf/assets/IHnbyPWl.png",
-    pfe = "main/pp9/htmf/assets/irMWZ2yY.png",
-    hfe = "main/pp9/htmf/assets/QZgp7_e0.png",
-    Efe = "main/pp9/htmf/assets/fKns2yYW.png",
-    dfe = "main/pp9/htmf/assets/7V_OUBVX.png",
+    Oue = "assets/78rlbB8o.png",
+    wue = "assets/_idQNOyK.png",
+    Uue = "assets/P4tNNoPd.png",
+    Bue = "assets/3dX79KA3.png",
+    $ue = "assets/90_1t3M_.png",
+    Pue = "assets/QMtBZx3S.png",
+    Due = "assets/_08Wtvsi.png",
+    kue = "assets/iczdq-jA.png",
+    Kue = "assets/rBpv1uKb.png",
+    Mue = "assets/4kzhgpy7.png",
+    Vue = "assets/nvKgj926.png",
+    Gue = "assets/Usybp8AJ.png",
+    Fue = "assets/4kzhgpy7.png",
+    jue = "assets/nvKgj926.png",
+    Hue = "assets/Usybp8AJ.png",
+    Wue = "assets/cGqHBe_g.png",
+    Xue = "assets/EOJIhf-N.png",
+    que = "assets/kKOrfVEt.png",
+    Yue = "assets/jh7faDwu.png",
+    zue = "assets/mCGtoyH7.png",
+    Jue = "assets/Txfy4RmU.png",
+    Zue = "assets/P8VdUxUj.png",
+    Que = "assets/1c_VAFRu.png",
+    efe = "assets/cqc7RiG-.png",
+    tfe = "assets/iWm8LWqs.png",
+    rfe = "assets/C4aW3_Uy.png",
+    nfe = "assets/CVgpjRz9.png",
+    ife = "assets/nDweU-bj.png",
+    sfe = "assets/P-hSZBbX.png",
+    afe = "assets/ZtRREn8U.png",
+    ofe = "assets/D9z_Oq3R.png",
+    lfe = "assets/haajr9W9.png",
+    ufe = "assets/u9Evv6HI.png",
+    ffe = "assets/wyvlj99D.png",
+    cfe = "assets/IHnbyPWl.png",
+    pfe = "assets/irMWZ2yY.png",
+    hfe = "assets/QZgp7_e0.png",
+    Efe = "assets/fKns2yYW.png",
+    dfe = "assets/7V_OUBVX.png",
     gfe = gt({
         name: "VoteResults",
         props: {
@@ -36460,8 +36460,8 @@ const Iue = at(gue, [
             }
         }
     }),
-    _fe = "main/pp9/htmf/assets/fd8cb02d.png",
-    mfe = "main/pp9/htmf/assets/24859d99.png",
+    _fe = "assets/fd8cb02d.png",
+    mfe = "assets/24859d99.png",
     Tfe = {
         class: "envelope-container"
     },
@@ -37937,55 +37937,55 @@ const J0e = at(M0e, [
             const t = {
                 blue: {
                     alt: this.$t("ALT.AVATAR.BLUE"),
-                    src: new URL("main/pp9/htmf/assets/qDcnNh4b.png", import.meta.url).href
+                    src: new URL("assets/qDcnNh4b.png", import.meta.url).href
                 },
                 brown: {
                     alt: this.$t("ALT.AVATAR.BROWN"),
-                    src: new URL("main/pp9/htmf/assets/yk_gGCQX.png", import.meta.url).href
+                    src: new URL("assets/yk_gGCQX.png", import.meta.url).href
                 },
                 cyan: {
                     alt: this.$t("ALT.AVATAR.CYAN"),
-                    src: new URL("main/pp9/htmf/assets/cNccfbsl.png", import.meta.url).href
+                    src: new URL("assets/cNccfbsl.png", import.meta.url).href
                 },
                 gray: {
                     alt: this.$t("ALT.AVATAR.GRAY"),
-                    src: new URL("main/pp9/htmf/assets/UD3Fo5Ba.png", import.meta.url).href
+                    src: new URL("assets/UD3Fo5Ba.png", import.meta.url).href
                 },
                 green: {
                     alt: this.$t("ALT.AVATAR.GREEN"),
-                    src: new URL("main/pp9/htmf/assets/M0-y9-a-.png", import.meta.url).href
+                    src: new URL("assets/M0-y9-a-.png", import.meta.url).href
                 },
                 magenta: {
                     alt: this.$t("ALT.AVATAR.MAGENTA"),
-                    src: new URL("main/pp9/htmf/assets/xhA9O9Fp.png", import.meta.url).href
+                    src: new URL("assets/xhA9O9Fp.png", import.meta.url).href
                 },
                 orange: {
                     alt: this.$t("ALT.AVATAR.ORANGE"),
-                    src: new URL("main/pp9/htmf/assets/u4DeJF7f.png", import.meta.url).href
+                    src: new URL("assets/u4DeJF7f.png", import.meta.url).href
                 },
                 pink: {
                     alt: this.$t("ALT.AVATAR.PINK"),
-                    src: new URL("main/pp9/htmf/assets/3Ysaum_p.png", import.meta.url).href
+                    src: new URL("assets/3Ysaum_p.png", import.meta.url).href
                 },
                 purple: {
                     alt: this.$t("ALT.AVATAR.PURPLE"),
-                    src: new URL("main/pp9/htmf/assets/FUfGBP5H.png", import.meta.url).href
+                    src: new URL("assets/FUfGBP5H.png", import.meta.url).href
                 },
                 red: {
                     alt: this.$t("ALT.AVATAR.RED"),
-                    src: new URL("main/pp9/htmf/assets/gXVa4MC9.png", import.meta.url).href
+                    src: new URL("assets/gXVa4MC9.png", import.meta.url).href
                 },
                 teal: {
                     alt: this.$t("ALT.AVATAR.TEAL"),
-                    src: new URL("main/pp9/htmf/assets/sVm3Oien.png", import.meta.url).href
+                    src: new URL("assets/sVm3Oien.png", import.meta.url).href
                 },
                 yellow: {
                     alt: this.$t("ALT.AVATAR.YELLOW"),
-                    src: new URL("main/pp9/htmf/assets/AtPoUaJv.png", import.meta.url).href
+                    src: new URL("assets/AtPoUaJv.png", import.meta.url).href
                 },
                 gene: {
                     alt: this.$t("ALT.AVATAR.GENE"),
-                    src: new URL("main/pp9/htmf/assets/8bVSD00n.png", import.meta.url).href
+                    src: new URL("assets/8bVSD00n.png", import.meta.url).href
                 }
             };
             return ["intro", "connection", "quickie", "firestarter", "finale"].forEach(e => {
