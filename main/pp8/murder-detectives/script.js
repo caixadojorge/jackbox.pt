@@ -11357,8 +11357,8 @@ ${n.message}`,
         e8 = {
             GALLERY_LINK: "Visita la galer\xEDa",
             PLAY_AGAIN: "\xBFJugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Otros jugadores"
+            BUTTON_SAME_PLAYERS: "Mismos jugadores",
+            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         t8 = {
             AND: "Y",
@@ -11480,8 +11480,8 @@ ${n.message}`,
         f8 = {
             GALLERY_LINK: "Visita la galer\xEDa",
             PLAY_AGAIN: "\xBFJugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Otros jugadores"
+            BUTTON_SAME_PLAYERS: "Mismos jugadores",
+            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         d8 = {
             AND: "Y",

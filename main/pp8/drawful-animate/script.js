@@ -13942,8 +13942,8 @@ ${r.message}`,
         d6 = {
             GALLERY_LINK: "Visita la galería",
             PLAY_AGAIN: "¿Jugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Otros jugadores"
+            BUTTON_SAME_PLAYERS: "Mismos jugadores",
+            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         h6 = {
             AND: "Y",
@@ -14072,8 +14072,8 @@ ${r.message}`,
         O6 = {
             GALLERY_LINK: "Visita la galería",
             PLAY_AGAIN: "¿Jugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Otros jugadores"
+            BUTTON_SAME_PLAYERS: "Mismos jugadores",
+            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         w6 = {
             AND: "Y",

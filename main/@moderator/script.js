@@ -18475,7 +18475,7 @@ const kF = {
         PLAY_AGAIN: "Play again?",
         THANKS_FOR_PLAYING: "Thanks for playing!",
         BUTTON_GO_TO_GAME: "Go to game",
-        BUTTON_GO_TO_JACKBOX: "Back to jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Back to jackbox.lol",
         BUTTON_SAME_PLAYERS: "Same players",
         BUTTON_NEW_PLAYERS: "New players"
     },
@@ -18629,7 +18629,7 @@ const kF = {
         PLAY_AGAIN: "Rejouer ?",
         THANKS_FOR_PLAYING: "Merci d'avoir joué !",
         BUTTON_GO_TO_GAME: "Aller au jeu",
-        BUTTON_GO_TO_JACKBOX: "Retour à jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Retour à jackbox.lol",
         BUTTON_SAME_PLAYERS: "Mêmes joueurs",
         BUTTON_NEW_PLAYERS: "Nouveaux joueurs"
     },
@@ -18783,7 +18783,7 @@ const kF = {
         PLAY_AGAIN: "Vuoi giocare di nuovo?",
         THANKS_FOR_PLAYING: "Grazie per aver scelto di giocare con noi!",
         BUTTON_GO_TO_GAME: "Vai al gioco",
-        BUTTON_GO_TO_JACKBOX: "Torna a jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Torna a jackbox.lol",
         BUTTON_SAME_PLAYERS: "Stessi giocatori",
         BUTTON_NEW_PLAYERS: "Nuovi giocatori"
     },
@@ -18937,7 +18937,7 @@ const kF = {
         PLAY_AGAIN: "Erneut spielen?",
         THANKS_FOR_PLAYING: "Danke fürs Spielen!",
         BUTTON_GO_TO_GAME: "Zum Spiel",
-        BUTTON_GO_TO_JACKBOX: "Zurück zu jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Zurück zu jackbox.lol",
         BUTTON_SAME_PLAYERS: "Selbe Spieler",
         BUTTON_NEW_PLAYERS: "Neue Spieler"
     },
@@ -19091,8 +19091,8 @@ const kF = {
         PLAY_AGAIN: "¿Jugar otra vez?",
         THANKS_FOR_PLAYING: "¡Gracias por jugar!",
         BUTTON_GO_TO_GAME: "Ir a al juego",
-        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Los mismos jugadores",
+        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
+        BUTTON_SAME_PLAYERS: "Mismos jugadores",
         BUTTON_NEW_PLAYERS: "Nuevos jugadores"
     },
     q9 = {
@@ -19245,8 +19245,8 @@ const kF = {
         PLAY_AGAIN: "¿Jugar otra vez?",
         THANKS_FOR_PLAYING: "¡Gracias por jugar!",
         BUTTON_GO_TO_GAME: "Ir a la partida",
-        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Los mismos jugadores",
+        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
+        BUTTON_SAME_PLAYERS: "Mismos jugadores",
         BUTTON_NEW_PLAYERS: "Nuevos jugadores"
     },
     u6 = {
@@ -19399,7 +19399,7 @@ const kF = {
         PLAY_AGAIN: "Jogar de novo?",
         THANKS_FOR_PLAYING: "Obrigado por jogar!",
         BUTTON_GO_TO_GAME: "Ir para o jogo",
-        BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.lol",
         BUTTON_SAME_PLAYERS: "Mesmos jogadores",
         BUTTON_NEW_PLAYERS: "Outros jogadores"
     },

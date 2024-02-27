@@ -13391,7 +13391,7 @@ ${r.message}`,
             THANKS_FOR_PLAYING: "¡Gracias por jugar!",
             BUTTON_GO_TO_GAME: "Ir a al juego",
             BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
-            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
+            BUTTON_SAME_PLAYERS: "Mismos jugadores",
             BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         r8 = {
@@ -13545,7 +13545,7 @@ ${r.message}`,
             THANKS_FOR_PLAYING: "¡Gracias por jugar!",
             BUTTON_GO_TO_GAME: "Ir a la partida",
             BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
-            BUTTON_SAME_PLAYERS: "Los mismos jugadores",
+            BUTTON_SAME_PLAYERS: "Mismos jugadores",
             BUTTON_NEW_PLAYERS: "Nuevos jugadores"
         },
         m8 = {
