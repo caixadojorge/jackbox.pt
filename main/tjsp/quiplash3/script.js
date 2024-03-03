@@ -19762,7 +19762,7 @@ class ib {
     }
     static html(e) {
         if (String(e).match(/<fart>/g)) {
-            const n = new Audio(new URL("main/tjsp/quiplash3/assets/YVsrF-nO.wav", import.meta.url).href);
+            const n = new Audio(new URL("assets/YVsrF-nO.wav", import.meta.url).href);
             n.volume = .1, n.play()
         }
         const r = /<(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>/g;
@@ -28455,11 +28455,11 @@ const uv = Ks(bZ),
             }
         }
     }),
-    lv = "main/tjsp/quiplash3/assets/yxqJoDZv.png",
-    fv = "main/tjsp/quiplash3/assets/fAtd_-Yh.png",
-    SZ = "main/tjsp/quiplash3/assets/2gLGftaD.png",
-    LZ = "main/tjsp/quiplash3/assets/tJwNIa6e.png",
-    CZ = "main/tjsp/quiplash3/assets/Py2Q4DGH.png",
+    lv = "assets/yxqJoDZv.png",
+    fv = "assets/fAtd_-Yh.png",
+    SZ = "assets/2gLGftaD.png",
+    LZ = "assets/tJwNIa6e.png",
+    CZ = "assets/Py2Q4DGH.png",
     hn = t => ($s("data-v-2c53389f"), t = t(), Ds(), t),
     OZ = {
         class: "jbg"
@@ -31960,9 +31960,9 @@ const Yie = {
             dismissText: String
         }
     }),
-    Jie = "main/tjsp/quiplash3/assets/cJZ5etop.png",
-    Qie = "main/tjsp/quiplash3/assets/zfGFf4oR.png",
-    Zie = "main/tjsp/quiplash3/assets/7_tk-HxY.png",
+    Jie = "assets/cJZ5etop.png",
+    Qie = "assets/zfGFf4oR.png",
+    Zie = "assets/7_tk-HxY.png",
     ese = {
         key: 0,
         class: "image",
@@ -36156,10 +36156,10 @@ const Sue = _t(yue, [
             }
         }
     }),
-    Cue = "main/tjsp/quiplash3/assets/c3d54796.png",
-    Oue = "main/tjsp/quiplash3/assets/7399ad7c.png",
-    Iue = "main/tjsp/quiplash3/assets/eb2e4e77.png",
-    Nue = "main/tjsp/quiplash3/assets/ace297d4.png",
+    Cue = "assets/c3d54796.png",
+    Oue = "assets/7399ad7c.png",
+    Iue = "assets/eb2e4e77.png",
+    Nue = "assets/ace297d4.png",
     Uue = {
         class: "ugc"
     },
@@ -36453,10 +36453,10 @@ const cle = _t(nle, [
             player: Object
         }
     }),
-    hle = "main/tjsp/quiplash3/assets/uhI_TLoK.png",
-    Ele = "main/tjsp/quiplash3/assets/6YvX_yIQ.png",
-    _le = "main/tjsp/quiplash3/assets/etH_HMyn.png",
-    dle = "main/tjsp/quiplash3/assets/t7y4D5Jp.png",
+    hle = "assets/uhI_TLoK.png",
+    Ele = "assets/6YvX_yIQ.png",
+    _le = "assets/etH_HMyn.png",
+    dle = "assets/t7y4D5Jp.png",
     gle = {
         class: "waiting"
     },
@@ -36734,83 +36734,83 @@ const $le = _t(Sle, [
                 avatarImages: {
                     blue: {
                         alt: this.$t("ALT.AVATAR_BLUE"),
-                        src: new URL("main/tjsp/quiplash3/assets/7wrp1YVh.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/g6R6AGXE.png", import.meta.url).href
+                        src: new URL("assets/7wrp1YVh.png", import.meta.url).href,
+                        selected: new URL("assets/g6R6AGXE.png", import.meta.url).href
                     },
                     cactus: {
                         alt: this.$t("ALT.AVATAR_CACTUS"),
-                        src: new URL("main/tjsp/quiplash3/assets/uwoOT-uk.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/sCJG_kWo.png", import.meta.url).href
+                        src: new URL("assets/uwoOT-uk.png", import.meta.url).href,
+                        selected: new URL("assets/sCJG_kWo.png", import.meta.url).href
                     },
                     coffin: {
                         alt: this.$t("ALT.AVATAR_COFFIN"),
-                        src: new URL("main/tjsp/quiplash3/assets/CpBcKLU3.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/ar9wwhwr.png", import.meta.url).href
+                        src: new URL("assets/CpBcKLU3.png", import.meta.url).href,
+                        selected: new URL("assets/ar9wwhwr.png", import.meta.url).href
                     },
                     green: {
                         alt: this.$t("ALT.AVATAR_GREEN"),
-                        src: new URL("main/tjsp/quiplash3/assets/sCIf3Nyi.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/M647F627.png", import.meta.url).href
+                        src: new URL("assets/sCIf3Nyi.png", import.meta.url).href,
+                        selected: new URL("assets/M647F627.png", import.meta.url).href
                     },
                     kitten: {
                         alt: this.$t("ALT.AVATAR_KITTEN"),
-                        src: new URL("main/tjsp/quiplash3/assets/PKZpFY3C.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/L5b6XlMp.png", import.meta.url).href
+                        src: new URL("assets/PKZpFY3C.png", import.meta.url).href,
+                        selected: new URL("assets/L5b6XlMp.png", import.meta.url).href
                     },
                     moon: {
                         alt: this.$t("ALT.AVATAR_MOON"),
-                        src: new URL("main/tjsp/quiplash3/assets/eS5D2Rwr.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/zXywBkrP.png", import.meta.url).href
+                        src: new URL("assets/eS5D2Rwr.png", import.meta.url).href,
+                        selected: new URL("assets/zXywBkrP.png", import.meta.url).href
                     },
                     orange: {
                         alt: this.$t("ALT.AVATAR_ORANGE"),
-                        src: new URL("main/tjsp/quiplash3/assets/e-kP8iPY.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/PebH5zp_.png", import.meta.url).href
+                        src: new URL("assets/e-kP8iPY.png", import.meta.url).href,
+                        selected: new URL("assets/PebH5zp_.png", import.meta.url).href
                     },
                     pink: {
                         alt: this.$t("ALT.AVATAR_PINK"),
-                        src: new URL("main/tjsp/quiplash3/assets/x7hF7y-b.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/kzsmdryt.png", import.meta.url).href
+                        src: new URL("assets/x7hF7y-b.png", import.meta.url).href,
+                        selected: new URL("assets/kzsmdryt.png", import.meta.url).href
                     },
                     poop: {
                         alt: this.$t("ALT.AVATAR_POOP"),
-                        src: new URL("main/tjsp/quiplash3/assets/fyNbXdDJ.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/8NAuSoV5.png", import.meta.url).href
+                        src: new URL("assets/fyNbXdDJ.png", import.meta.url).href,
+                        selected: new URL("assets/8NAuSoV5.png", import.meta.url).href
                     },
                     purple: {
                         alt: this.$t("ALT.AVATAR_PURPLE"),
-                        src: new URL("main/tjsp/quiplash3/assets/P9kGskOd.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/aIh7YfTF.png", import.meta.url).href
+                        src: new URL("assets/P9kGskOd.png", import.meta.url).href,
+                        selected: new URL("assets/aIh7YfTF.png", import.meta.url).href
                     },
                     red: {
                         alt: this.$t("ALT.AVATAR_RED"),
-                        src: new URL("main/tjsp/quiplash3/assets/oxHAJiTJ.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/rt7Hscpa.png", import.meta.url).href
+                        src: new URL("assets/oxHAJiTJ.png", import.meta.url).href,
+                        selected: new URL("assets/rt7Hscpa.png", import.meta.url).href
                     },
                     star: {
                         alt: this.$t("ALT.AVATAR_STAR"),
-                        src: new URL("main/tjsp/quiplash3/assets/19rzdG8t.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/qO1Tp015.png", import.meta.url).href
+                        src: new URL("assets/19rzdG8t.png", import.meta.url).href,
+                        selected: new URL("assets/qO1Tp015.png", import.meta.url).href
                     },
                     teal: {
                         alt: this.$t("ALT.AVATAR_TEAL"),
-                        src: new URL("main/tjsp/quiplash3/assets/YJs-reOu.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/RKAQXIWf.png", import.meta.url).href
+                        src: new URL("assets/YJs-reOu.png", import.meta.url).href,
+                        selected: new URL("assets/RKAQXIWf.png", import.meta.url).href
                     },
                     tear: {
                         alt: this.$t("ALT.AVATAR_TEAR"),
-                        src: new URL("main/tjsp/quiplash3/assets/cJZ5etop.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/7oPzPkHb.png", import.meta.url).href
+                        src: new URL("assets/cJZ5etop.png", import.meta.url).href,
+                        selected: new URL("assets/7oPzPkHb.png", import.meta.url).href
                     },
                     triclops: {
                         alt: this.$t("ALT.AVATAR_TRICLOPS"),
-                        src: new URL("main/tjsp/quiplash3/assets/CkLKbWnG.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/KxLpmB-s.png", import.meta.url).href
+                        src: new URL("assets/CkLKbWnG.png", import.meta.url).href,
+                        selected: new URL("assets/KxLpmB-s.png", import.meta.url).href
                     },
                     yellow: {
                         alt: this.$t("ALT.AVATAR_YELLOW"),
-                        src: new URL("main/tjsp/quiplash3/assets/RD6EY7KP.png", import.meta.url).href,
-                        selected: new URL("main/tjsp/quiplash3/assets/He1Z6zTd.png", import.meta.url).href
+                        src: new URL("assets/RD6EY7KP.png", import.meta.url).href,
+                        selected: new URL("assets/He1Z6zTd.png", import.meta.url).href
                     }
                 },
                 themeColors: {
