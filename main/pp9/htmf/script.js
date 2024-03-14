@@ -36460,8 +36460,8 @@ const Iue = at(gue, [
             }
         }
     }),
-    _fe = "assets/fd8cb02d.png",
-    mfe = "assets/24859d99.png",
+    _fe = "../assets/fd8cb02d.png",
+    mfe = "../assets/24859d99.png",
     Tfe = {
         class: "envelope-container"
     },
