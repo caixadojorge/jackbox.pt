@@ -36453,10 +36453,10 @@ const cle = _t(nle, [
             player: Object
         }
     }),
-    hle = "assets/uhI_TLoK.png",
-    Ele = "assets/6YvX_yIQ.png",
-    _le = "assets/etH_HMyn.png",
-    dle = "assets/t7y4D5Jp.png",
+    hle = "main/tjsp/quiplash3/assets/uhI_TLoK.png",
+    Ele = "main/tjsp/quiplash3/assets/6YvX_yIQ.png",
+    _le = "main/tjsp/quiplash3/assets/etH_HMyn.png",
+    dle = "main/tjsp/quiplash3/assets/t7y4D5Jp.png",
     gle = {
         class: "waiting"
     },
