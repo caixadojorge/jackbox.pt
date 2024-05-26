@@ -28870,9 +28870,9 @@ const Kae = {
             dismissText: String
         }
     }),
-    Gae = "assets/Bwlnl62i.png",
-    Vae = "assets/DN8YV_ih.png",
-    Fae = "assets/Dv-2T4fF.png",
+    Gae = "main/tjsp/triviadeath2/assets/Bwlnl62i.png",
+    Vae = "main/tjsp/triviadeath2/assets/DN8YV_ih.png",
+    Fae = "main/tjsp/triviadeath2/assets/Dv-2T4fF.png",
     $ae = {
         key: 0,
         class: "image",
@@ -34987,7 +34987,7 @@ const Pce = lt(Bce, [
             player: Object
         }
     }),
-    Kce = "assets/DZQK6UFl.png",
+    Kce = "main/tjsp/triviadeath2/assets/DZQK6UFl.png",
     Mce = t => (Wn("data-v-bda0bfa2"), t = t(), qn(), t),
     Gce = {
         class: "waiting"

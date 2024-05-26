@@ -32341,9 +32341,9 @@ const _ae = {
             dismissText: String
         }
     }),
-    gae = "assets/Bwlnl62i.png",
-    mae = "assets/DN8YV_ih.png",
-    Tae = "assets/Dv-2T4fF.png",
+    gae = "main/tjsp/quiplash3/assets/Bwlnl62i.png",
+    mae = "main/tjsp/quiplash3/assets/DN8YV_ih.png",
+    Tae = "main/tjsp/quiplash3/assets/Dv-2T4fF.png",
     Rae = {
         key: 0,
         class: "image",
@@ -36953,10 +36953,10 @@ const Efe = Et(cfe, [
             }
         }
     }),
-    dfe = "assets/c3d54796.png",
-    gfe = "assets/7399ad7c.png",
-    mfe = "assets/eb2e4e77.png",
-    Tfe = "assets/ace297d4.png",
+    dfe = "main/tjsp/quiplash3/assets/c3d54796.png",
+    gfe = "main/tjsp/quiplash3/assets/7399ad7c.png",
+    mfe = "main/tjsp/quiplash3/assets/eb2e4e77.png",
+    Tfe = "main/tjsp/quiplash3/assets/ace297d4.png",
     Rfe = {
         class: "ugc"
     },
@@ -37250,10 +37250,10 @@ const Zfe = Et(Xfe, [
             player: Object
         }
     }),
-    tce = "assets/C6Ej9Mug.png",
-    rce = "assets/Dpi9f_Ih.png",
-    nce = "assets/B60f8czK.png",
-    ice = "assets/C3vLgPkm.png",
+    tce = "main/tjsp/quiplash3/assets/C6Ej9Mug.png",
+    rce = "main/tjsp/quiplash3/assets/Dpi9f_Ih.png",
+    nce = "main/tjsp/quiplash3/assets/B60f8czK.png",
+    ice = "main/tjsp/quiplash3/assets/C3vLgPkm.png",
     sce = {
         class: "waiting"
     },

@@ -28916,9 +28916,9 @@ const oae = {
             dismissText: String
         }
     }),
-    uae = "assets/Bwlnl62i.png",
-    fae = "assets/DN8YV_ih.png",
-    cae = "assets/Dv-2T4fF.png",
+    uae = "main/tjsp/awshirt/assets/Bwlnl62i.png",
+    fae = "main/tjsp/awshirt/assets/DN8YV_ih.png",
+    cae = "main/tjsp/awshirt/assets/Dv-2T4fF.png",
     Aae = {
         key: 0,
         class: "image",
@@ -34756,7 +34756,7 @@ const Vce = pt(Bce, [
             }
         }
     }),
-    gC = "assets/BF7_oPMV.png",
+    gC = "main/tjsp/awshirt/assets/BF7_oPMV.png",
     Fce = t => (os("data-v-1a741540"), t = t(), ls(), t),
     $ce = {
         class: "voting"
