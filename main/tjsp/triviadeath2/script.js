@@ -16637,7 +16637,7 @@ class T1 {
     }
     static html(e) {
         if (String(e).match(/<fart>/g)) {
-            const n = new Audio(new URL("main/tjsp/triviadeath2/assets/BhWysX6c.wav", import.meta.url).href);
+            const n = new Audio(new URL("assets/BhWysX6c.wav", import.meta.url).href);
             n.volume = .1, n.play()
         }
         const r = /<(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>/g;
@@ -25221,11 +25221,11 @@ const xC = ns(_te),
             }
         }
     }),
-    RC = "main/tjsp/triviadeath2/assets/DLGomgNm.png",
-    vC = "main/tjsp/triviadeath2/assets/B8C13_5i.png",
-    xte = "main/tjsp/triviadeath2/assets/DaAsZ-1o.png",
-    Rte = "main/tjsp/triviadeath2/assets/C0nA0hrp.png",
-    vte = "main/tjsp/triviadeath2/assets/_LZDgMYc.png",
+    RC = "assets/DLGomgNm.png",
+    vC = "assets/B8C13_5i.png",
+    xte = "assets/DaAsZ-1o.png",
+    Rte = "assets/C0nA0hrp.png",
+    vte = "assets/_LZDgMYc.png",
     gn = t => (Wn("data-v-2c53389f"), t = t(), qn(), t),
     yte = {
         class: "jbg"
@@ -28870,9 +28870,9 @@ const Kae = {
             dismissText: String
         }
     }),
-    Gae = "main/tjsp/triviadeath2/assets/Bwlnl62i.png",
-    Vae = "main/tjsp/triviadeath2/assets/DN8YV_ih.png",
-    Fae = "main/tjsp/triviadeath2/assets/Dv-2T4fF.png",
+    Gae = "assets/Bwlnl62i.png",
+    Vae = "assets/DN8YV_ih.png",
+    Fae = "assets/Dv-2T4fF.png",
     $ae = {
         key: 0,
         class: "image",
@@ -33294,203 +33294,203 @@ const Sue = t => {
                 buttonImages: {
                     checkedBox: {
                         alt: this.$t("ALT.CHECKED_BOX"),
-                        src: new URL("main/tjsp/triviadeath2/assets/842acd3b.png", import.meta.url).href
+                        src: new URL("assets/842acd3b.png", import.meta.url).href
                     },
                     uncheckedBox: {
                         alt: this.$t("ALT.UNCHECKED_BOX"),
-                        src: new URL("main/tjsp/triviadeath2/assets/8ecc9c6c.png", import.meta.url).href
+                        src: new URL("assets/8ecc9c6c.png", import.meta.url).href
                     },
                     chalice0: {
                         alt: this.$t("ALT.CHALICE_1"),
-                        src: new URL("main/tjsp/triviadeath2/assets/vOde3e_U.png", import.meta.url).href
+                        src: new URL("assets/vOde3e_U.png", import.meta.url).href
                     },
                     chalice1: {
                         alt: this.$t("ALT.CHALICE_2"),
-                        src: new URL("main/tjsp/triviadeath2/assets/D2iFyHRg.png", import.meta.url).href
+                        src: new URL("assets/D2iFyHRg.png", import.meta.url).href
                     },
                     chalice2: {
                         alt: this.$t("ALT.CHALICE_3"),
-                        src: new URL("main/tjsp/triviadeath2/assets/Dn8y9ttF.png", import.meta.url).href
+                        src: new URL("assets/Dn8y9ttF.png", import.meta.url).href
                     },
                     chalice3: {
                         alt: this.$t("ALT.CHALICE_4"),
-                        src: new URL("main/tjsp/triviadeath2/assets/BCx_lkrX.png", import.meta.url).href
+                        src: new URL("assets/BCx_lkrX.png", import.meta.url).href
                     },
                     chalice4: {
                         alt: this.$t("ALT.CHALICE_5"),
-                        src: new URL("main/tjsp/triviadeath2/assets/OE0TuhJ7.png", import.meta.url).href
+                        src: new URL("assets/OE0TuhJ7.png", import.meta.url).href
                     },
                     chalice5: {
                         alt: this.$t("ALT.CHALICE_6"),
-                        src: new URL("main/tjsp/triviadeath2/assets/DcDUKlT5.png", import.meta.url).href
+                        src: new URL("assets/DcDUKlT5.png", import.meta.url).href
                     },
                     chalice6: {
                         alt: this.$t("ALT.CHALICE_7"),
-                        src: new URL("main/tjsp/triviadeath2/assets/CSghaS8L.png", import.meta.url).href
+                        src: new URL("assets/CSghaS8L.png", import.meta.url).href
                     },
                     chalice7: {
                         alt: this.$t("ALT.CHALICE_8"),
-                        src: new URL("main/tjsp/triviadeath2/assets/929BDgeV.png", import.meta.url).href
+                        src: new URL("assets/929BDgeV.png", import.meta.url).href
                     },
                     chalice8: {
                         alt: this.$t("ALT.CHALICE_9"),
-                        src: new URL("main/tjsp/triviadeath2/assets/uWgVsvJ-.png", import.meta.url).href
+                        src: new URL("assets/uWgVsvJ-.png", import.meta.url).href
                     },
                     chalice9: {
                         alt: this.$t("ALT.CHALICE_10"),
-                        src: new URL("main/tjsp/triviadeath2/assets/BsaGOvVU.png", import.meta.url).href
+                        src: new URL("assets/BsaGOvVU.png", import.meta.url).href
                     },
                     chalice10: {
                         alt: this.$t("ALT.CHALICE_11"),
-                        src: new URL("main/tjsp/triviadeath2/assets/5fdfskba.png", import.meta.url).href
+                        src: new URL("assets/5fdfskba.png", import.meta.url).href
                     },
                     chalice11: {
                         alt: this.$t("ALT.CHALICE_12"),
-                        src: new URL("main/tjsp/triviadeath2/assets/BLgZrfdX.png", import.meta.url).href
+                        src: new URL("assets/BLgZrfdX.png", import.meta.url).href
                     },
                     finger0: {
                         alt: this.$t("ALT.FINGER_1"),
-                        src: new URL("main/tjsp/triviadeath2/assets/9499bdb6.png", import.meta.url).href
+                        src: new URL("assets/9499bdb6.png", import.meta.url).href
                     },
                     finger1: {
                         alt: this.$t("ALT.FINGER_2"),
-                        src: new URL("main/tjsp/triviadeath2/assets/f3bfb908.png", import.meta.url).href
+                        src: new URL("assets/f3bfb908.png", import.meta.url).href
                     },
                     finger2: {
                         alt: this.$t("ALT.FINGER_3"),
-                        src: new URL("main/tjsp/triviadeath2/assets/b66096f0.png", import.meta.url).href
+                        src: new URL("assets/b66096f0.png", import.meta.url).href
                     },
                     finger3: {
                         alt: this.$t("ALT.FINGER_4"),
-                        src: new URL("main/tjsp/triviadeath2/assets/1ebdc7b6.png", import.meta.url).href
+                        src: new URL("assets/1ebdc7b6.png", import.meta.url).href
                     },
                     gift0: {
                         alt: this.$t("ALT.GIFT_1"),
-                        src: new URL("main/tjsp/triviadeath2/assets/BeN_MxUT.png", import.meta.url).href
+                        src: new URL("assets/BeN_MxUT.png", import.meta.url).href
                     },
                     gift1: {
                         alt: this.$t("ALT.GIFT_2"),
-                        src: new URL("main/tjsp/triviadeath2/assets/Db5HJVmC.png", import.meta.url).href
+                        src: new URL("assets/Db5HJVmC.png", import.meta.url).href
                     },
                     gift2: {
                         alt: this.$t("ALT.GIFT_3"),
-                        src: new URL("main/tjsp/triviadeath2/assets/u24CQKlm.png", import.meta.url).href
+                        src: new URL("assets/u24CQKlm.png", import.meta.url).href
                     },
                     gift3: {
                         alt: this.$t("ALT.GIFT_4"),
-                        src: new URL("main/tjsp/triviadeath2/assets/CnWADXZK.png", import.meta.url).href
+                        src: new URL("assets/CnWADXZK.png", import.meta.url).href
                     },
                     gift4: {
                         alt: this.$t("ALT.GIFT_5"),
-                        src: new URL("main/tjsp/triviadeath2/assets/D5Wian_K.png", import.meta.url).href
+                        src: new URL("assets/D5Wian_K.png", import.meta.url).href
                     },
                     gift5: {
                         alt: this.$t("ALT.GIFT_6"),
-                        src: new URL("main/tjsp/triviadeath2/assets/CDKJtjSE.png", import.meta.url).href
+                        src: new URL("assets/CDKJtjSE.png", import.meta.url).href
                     },
                     gift6: {
                         alt: this.$t("ALT.GIFT_7"),
-                        src: new URL("main/tjsp/triviadeath2/assets/B_EjQhQF.png", import.meta.url).href
+                        src: new URL("assets/B_EjQhQF.png", import.meta.url).href
                     },
                     gift7: {
                         alt: this.$t("ALT.GIFT_8"),
-                        src: new URL("main/tjsp/triviadeath2/assets/BydbFQue.png", import.meta.url).href
+                        src: new URL("assets/BydbFQue.png", import.meta.url).href
                     },
                     key0: {
                         alt: this.$t("ALT.KEY_1"),
-                        src: new URL("main/tjsp/triviadeath2/assets/a9d37581.png", import.meta.url).href
+                        src: new URL("assets/a9d37581.png", import.meta.url).href
                     },
                     key1: {
                         alt: this.$t("ALT.KEY_2"),
-                        src: new URL("main/tjsp/triviadeath2/assets/BhwT3FCV.png", import.meta.url).href
+                        src: new URL("assets/BhwT3FCV.png", import.meta.url).href
                     },
                     key2: {
                         alt: this.$t("ALT.KEY_3"),
-                        src: new URL("main/tjsp/triviadeath2/assets/D6VqB18j.png", import.meta.url).href
+                        src: new URL("assets/D6VqB18j.png", import.meta.url).href
                     },
                     key3: {
                         alt: this.$t("ALT.KEY_4"),
-                        src: new URL("main/tjsp/triviadeath2/assets/86e051d7.png", import.meta.url).href
+                        src: new URL("assets/86e051d7.png", import.meta.url).href
                     },
                     key4: {
                         alt: this.$t("ALT.KEY_5"),
-                        src: new URL("main/tjsp/triviadeath2/assets/48d11e4f.png", import.meta.url).href
+                        src: new URL("assets/48d11e4f.png", import.meta.url).href
                     },
                     key5: {
                         alt: this.$t("ALT.KEY_6"),
-                        src: new URL("main/tjsp/triviadeath2/assets/JxCTxswH.png", import.meta.url).href
+                        src: new URL("assets/JxCTxswH.png", import.meta.url).href
                     },
                     key6: {
                         alt: this.$t("ALT.KEY_7"),
-                        src: new URL("main/tjsp/triviadeath2/assets/f0cb990c.png", import.meta.url).href
+                        src: new URL("assets/f0cb990c.png", import.meta.url).href
                     },
                     key7: {
                         alt: this.$t("ALT.KEY_8"),
-                        src: new URL("main/tjsp/triviadeath2/assets/7993a36b.png", import.meta.url).href
+                        src: new URL("assets/7993a36b.png", import.meta.url).href
                     },
                     key8: {
                         alt: this.$t("ALT.KEY_9"),
-                        src: new URL("main/tjsp/triviadeath2/assets/506af504.png", import.meta.url).href
+                        src: new URL("assets/506af504.png", import.meta.url).href
                     },
                     key9: {
                         alt: this.$t("ALT.KEY_10"),
-                        src: new URL("main/tjsp/triviadeath2/assets/acb0415e.png", import.meta.url).href
+                        src: new URL("assets/acb0415e.png", import.meta.url).href
                     },
                     key10: {
                         alt: this.$t("ALT.KEY_11"),
-                        src: new URL("main/tjsp/triviadeath2/assets/d9e101c2.png", import.meta.url).href
+                        src: new URL("assets/d9e101c2.png", import.meta.url).href
                     },
                     key11: {
                         alt: this.$t("ALT.KEY_12"),
-                        src: new URL("main/tjsp/triviadeath2/assets/1bbd7b50.png", import.meta.url).href
+                        src: new URL("assets/1bbd7b50.png", import.meta.url).href
                     },
                     key12: {
                         alt: this.$t("ALT.KEY_13"),
-                        src: new URL("main/tjsp/triviadeath2/assets/PJo2giSo.png", import.meta.url).href
+                        src: new URL("assets/PJo2giSo.png", import.meta.url).href
                     },
                     key13: {
                         alt: this.$t("ALT.KEY_14"),
-                        src: new URL("main/tjsp/triviadeath2/assets/00056d30.png", import.meta.url).href
+                        src: new URL("assets/00056d30.png", import.meta.url).href
                     },
                     key14: {
                         alt: this.$t("ALT.KEY_15"),
-                        src: new URL("main/tjsp/triviadeath2/assets/N3buDsv_.png", import.meta.url).href
+                        src: new URL("assets/N3buDsv_.png", import.meta.url).href
                     },
                     key15: {
                         alt: this.$t("ALT.KEY_16"),
-                        src: new URL("main/tjsp/triviadeath2/assets/Cbn0tfj8.png", import.meta.url).href
+                        src: new URL("assets/Cbn0tfj8.png", import.meta.url).href
                     },
                     key16: {
                         alt: this.$t("ALT.KEY_17"),
-                        src: new URL("main/tjsp/triviadeath2/assets/0659fffd.png", import.meta.url).href
+                        src: new URL("assets/0659fffd.png", import.meta.url).href
                     },
                     key17: {
                         alt: this.$t("ALT.KEY_18"),
-                        src: new URL("main/tjsp/triviadeath2/assets/kx9JepF7.png", import.meta.url).href
+                        src: new URL("assets/kx9JepF7.png", import.meta.url).href
                     },
                     key18: {
                         alt: this.$t("ALT.KEY_19"),
-                        src: new URL("main/tjsp/triviadeath2/assets/DxQZsBAJ.png", import.meta.url).href
+                        src: new URL("assets/DxQZsBAJ.png", import.meta.url).href
                     },
                     key19: {
                         alt: this.$t("ALT.KEY_20"),
-                        src: new URL("main/tjsp/triviadeath2/assets/5349d613.png", import.meta.url).href
+                        src: new URL("assets/5349d613.png", import.meta.url).href
                     },
                     key20: {
                         alt: this.$t("ALT.KEY_21"),
-                        src: new URL("main/tjsp/triviadeath2/assets/1d56ff11.png", import.meta.url).href
+                        src: new URL("assets/1d56ff11.png", import.meta.url).href
                     },
                     key21: {
                         alt: this.$t("ALT.KEY_22"),
-                        src: new URL("main/tjsp/triviadeath2/assets/Cejfz76r.png", import.meta.url).href
+                        src: new URL("assets/Cejfz76r.png", import.meta.url).href
                     },
                     key22: {
                         alt: this.$t("ALT.KEY_23"),
-                        src: new URL("main/tjsp/triviadeath2/assets/DwAfB72h.png", import.meta.url).href
+                        src: new URL("assets/DwAfB72h.png", import.meta.url).href
                     },
                     key23: {
                         alt: this.$t("ALT.KEY_24"),
-                        src: new URL("main/tjsp/triviadeath2/assets/788ab1b3.png", import.meta.url).href
+                        src: new URL("assets/788ab1b3.png", import.meta.url).href
                     }
                 },
                 hasSubmitted: !1,
@@ -34292,11 +34292,11 @@ const _v = 60,
         },
         data() {
             const t = new Image;
-            t.src = new URL("main/tjsp/triviadeath2/assets/DWBHl3uZ.png", import.meta.url).href;
+            t.src = new URL("assets/DWBHl3uZ.png", import.meta.url).href;
             const e = new Image;
-            e.src = new URL("main/tjsp/triviadeath2/assets/DoZaVXc2.png", import.meta.url).href;
+            e.src = new URL("assets/DoZaVXc2.png", import.meta.url).href;
             const r = new Image;
-            return r.src = new URL("main/tjsp/triviadeath2/assets/q43S87fS.png", import.meta.url).href, {
+            return r.src = new URL("assets/q43S87fS.png", import.meta.url).href, {
                 status: null,
                 dialedLabel: {
                     id: "dialedLabel",
@@ -34545,14 +34545,14 @@ function Zfe(t, e, r, n, i, a) {
 const Qfe = lt(Hfe, [
         ["render", Zfe]
     ]),
-    zfe = "main/tjsp/triviadeath2/assets/D_GwhpY4.png",
-    Jfe = "main/tjsp/triviadeath2/assets/CIjL52Mb.png",
-    ece = "main/tjsp/triviadeath2/assets/BzvzJ4kh.png",
-    tce = "main/tjsp/triviadeath2/assets/CSjHY-WS.png",
-    rce = "main/tjsp/triviadeath2/assets/Brt4W8rM.png",
-    nce = "main/tjsp/triviadeath2/assets/CdlTpsb3.png",
-    ice = "main/tjsp/triviadeath2/assets/QdKxOim4.png",
-    sce = "main/tjsp/triviadeath2/assets/NWTjvSEy.png",
+    zfe = "assets/D_GwhpY4.png",
+    Jfe = "assets/CIjL52Mb.png",
+    ece = "assets/BzvzJ4kh.png",
+    tce = "assets/CSjHY-WS.png",
+    rce = "assets/Brt4W8rM.png",
+    nce = "assets/CdlTpsb3.png",
+    ice = "assets/QdKxOim4.png",
+    sce = "assets/NWTjvSEy.png",
     kr = 128,
     ace = ht({
         props: {
@@ -34717,15 +34717,15 @@ const _ce = lt(pce, [
                 images: {
                     swordLength2: {
                         alt: this.$t("ALT.SWORD_2"),
-                        src: new URL("main/tjsp/triviadeath2/assets/25502c8e.png", import.meta.url).href
+                        src: new URL("assets/25502c8e.png", import.meta.url).href
                     },
                     swordLength3: {
                         alt: this.$t("ALT.SWORD_3"),
-                        src: new URL("main/tjsp/triviadeath2/assets/ae40d6a8.png", import.meta.url).href
+                        src: new URL("assets/ae40d6a8.png", import.meta.url).href
                     },
                     swordLength4: {
                         alt: this.$t("ALT.SWORD_4"),
-                        src: new URL("main/tjsp/triviadeath2/assets/72e5ed41.png", import.meta.url).href
+                        src: new URL("assets/72e5ed41.png", import.meta.url).href
                     }
                 },
                 isSubmitting: !1
@@ -34834,9 +34834,9 @@ const Nce = lt(Oce, [
         },
         data() {
             const t = new Image;
-            t.src = new URL("main/tjsp/triviadeath2/assets/f12a584c.png", import.meta.url).href;
+            t.src = new URL("assets/f12a584c.png", import.meta.url).href;
             const e = new Image;
-            return e.src = new URL("main/tjsp/triviadeath2/assets/004b5884.png", import.meta.url).href, {
+            return e.src = new URL("assets/004b5884.png", import.meta.url).href, {
                 scratchBox: {
                     height: 126,
                     width: 126,
@@ -34987,7 +34987,7 @@ const Pce = lt(Bce, [
             player: Object
         }
     }),
-    Kce = "main/tjsp/triviadeath2/assets/DZQK6UFl.png",
+    Kce = "assets/DZQK6UFl.png",
     Mce = t => (Wn("data-v-bda0bfa2"), t = t(), qn(), t),
     Gce = {
         class: "waiting"

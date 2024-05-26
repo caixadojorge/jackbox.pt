@@ -16641,7 +16641,7 @@ class C7 {
     }
     static html(e) {
         if (String(e).match(/<fart>/g)) {
-            const n = new Audio(new URL("main/tjsp/awshirt/assets/BhWysX6c.wav", import.meta.url).href);
+            const n = new Audio(new URL("assets/BhWysX6c.wav", import.meta.url).href);
             n.volume = .1, n.play()
         }
         const r = /<(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>/g;
@@ -25267,11 +25267,11 @@ const Qy = us(Fee),
             }
         }
     }),
-    Jy = "main/tjsp/awshirt/assets/DLGomgNm.png",
-    zy = "main/tjsp/awshirt/assets/B8C13_5i.png",
-    jee = "main/tjsp/awshirt/assets/DaAsZ-1o.png",
-    Hee = "main/tjsp/awshirt/assets/C0nA0hrp.png",
-    Wee = "main/tjsp/awshirt/assets/_LZDgMYc.png",
+    Jy = "assets/DLGomgNm.png",
+    zy = "assets/B8C13_5i.png",
+    jee = "assets/DaAsZ-1o.png",
+    Hee = "assets/C0nA0hrp.png",
+    Wee = "assets/_LZDgMYc.png",
     Rn = t => (os("data-v-2c53389f"), t = t(), ls(), t),
     Xee = {
         class: "jbg"
@@ -28916,9 +28916,9 @@ const oae = {
             dismissText: String
         }
     }),
-    uae = "main/tjsp/awshirt/assets/Bwlnl62i.png",
-    fae = "main/tjsp/awshirt/assets/DN8YV_ih.png",
-    cae = "main/tjsp/awshirt/assets/Dv-2T4fF.png",
+    uae = "assets/Bwlnl62i.png",
+    fae = "assets/DN8YV_ih.png",
+    cae = "assets/Dv-2T4fF.png",
     Aae = {
         key: 0,
         class: "image",
@@ -34390,98 +34390,98 @@ const gce = ct({
                 icons: {
                     baku: {
                         alt: this.$t("ALT.AVATARS.BAKU"),
-                        off: new URL("main/tjsp/awshirt/assets/354d4e6d.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/514041c0.png", import.meta.url).href,
+                        off: new URL("assets/354d4e6d.png", import.meta.url).href,
+                        on: new URL("assets/514041c0.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.BAKU")
                     },
                     blueDemon: {
                         alt: this.$t("ALT.AVATARS.BLUE_DEMON"),
-                        off: new URL("main/tjsp/awshirt/assets/3c7a6c32.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/a0a4d012.png", import.meta.url).href,
+                        off: new URL("assets/3c7a6c32.png", import.meta.url).href,
+                        on: new URL("assets/a0a4d012.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.BLUE_DEMON")
                     },
                     bun: {
                         alt: this.$t("ALT.AVATARS.BUN"),
-                        off: new URL("main/tjsp/awshirt/assets/a7d5bf8b.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/efe686f1.png", import.meta.url).href,
+                        off: new URL("assets/a7d5bf8b.png", import.meta.url).href,
+                        on: new URL("assets/efe686f1.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.BUN")
                     },
                     cat: {
                         alt: this.$t("ALT.AVATARS.CAT"),
-                        off: new URL("main/tjsp/awshirt/assets/bce7c174.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/83403e58.png", import.meta.url).href,
+                        off: new URL("assets/bce7c174.png", import.meta.url).href,
+                        on: new URL("assets/83403e58.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.CAT")
                     },
                     catfish: {
                         alt: this.$t("ALT.AVATARS.CATFISH"),
-                        off: new URL("main/tjsp/awshirt/assets/64d52d89.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/ca9b452c.png", import.meta.url).href,
+                        off: new URL("assets/64d52d89.png", import.meta.url).href,
+                        on: new URL("assets/ca9b452c.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.CATFISH")
                     },
                     crow: {
                         alt: this.$t("ALT.AVATARS.CROW"),
-                        off: new URL("main/tjsp/awshirt/assets/49695d1e.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/b0cb3d60.png", import.meta.url).href,
+                        off: new URL("assets/49695d1e.png", import.meta.url).href,
+                        on: new URL("assets/b0cb3d60.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.CROW")
                     },
                     dog: {
                         alt: this.$t("ALT.AVATARS.DOG"),
-                        off: new URL("main/tjsp/awshirt/assets/99503ac8.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/b71356b5.png", import.meta.url).href,
+                        off: new URL("assets/99503ac8.png", import.meta.url).href,
+                        on: new URL("assets/b71356b5.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.DOG")
                     },
                     fire: {
                         alt: this.$t("ALT.AVATARS.FIRE"),
-                        off: new URL("main/tjsp/awshirt/assets/b29bf0ca.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/95d775f2.png", import.meta.url).href,
+                        off: new URL("assets/b29bf0ca.png", import.meta.url).href,
+                        on: new URL("assets/95d775f2.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.FIRE")
                     },
                     fox: {
                         alt: this.$t("ALT.AVATARS.FOX"),
-                        off: new URL("main/tjsp/awshirt/assets/91b8548b.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/45b6e996.png", import.meta.url).href,
+                        off: new URL("assets/91b8548b.png", import.meta.url).href,
+                        on: new URL("assets/45b6e996.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.FOX")
                     },
                     hair: {
                         alt: this.$t("ALT.AVATARS.HAIR"),
-                        off: new URL("main/tjsp/awshirt/assets/025634f3.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/cd9dc1da.png", import.meta.url).href,
+                        off: new URL("assets/025634f3.png", import.meta.url).href,
+                        on: new URL("assets/cd9dc1da.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.HAIR")
                     },
                     kappa: {
                         alt: this.$t("ALT.AVATARS.KAPPA"),
-                        off: new URL("main/tjsp/awshirt/assets/de202192.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/88644d0f.png", import.meta.url).href,
+                        off: new URL("assets/de202192.png", import.meta.url).href,
+                        on: new URL("assets/88644d0f.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.KAPPA")
                     },
                     monkey: {
                         alt: this.$t("ALT.AVATARS.MONKEY"),
-                        off: new URL("main/tjsp/awshirt/assets/9b3f6a47.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/0ee8d966.png", import.meta.url).href,
+                        off: new URL("assets/9b3f6a47.png", import.meta.url).href,
+                        on: new URL("assets/0ee8d966.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.MONKEY")
                     },
                     raccoon: {
                         alt: this.$t("ALT.AVATARS.RACCOON"),
-                        off: new URL("main/tjsp/awshirt/assets/32bd4eef.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/86f703fd.png", import.meta.url).href,
+                        off: new URL("assets/32bd4eef.png", import.meta.url).href,
+                        on: new URL("assets/86f703fd.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.RACCOON")
                     },
                     redDemon: {
                         alt: this.$t("ALT.AVATARS.RED_DEMON"),
-                        off: new URL("main/tjsp/awshirt/assets/6a99716a.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/8d08ae62.png", import.meta.url).href,
+                        off: new URL("assets/6a99716a.png", import.meta.url).href,
+                        on: new URL("assets/8d08ae62.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.RED_DEMON")
                     },
                     snake: {
                         alt: this.$t("ALT.AVATARS.SNAKE"),
-                        off: new URL("main/tjsp/awshirt/assets/c0edd45e.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/e492b5ce.png", import.meta.url).href,
+                        off: new URL("assets/c0edd45e.png", import.meta.url).href,
+                        on: new URL("assets/e492b5ce.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.SNAKE")
                     },
                     umbrella: {
                         alt: this.$t("ALT.AVATARS.UMBRELLA"),
-                        off: new URL("main/tjsp/awshirt/assets/818bcc6a.png", import.meta.url).href,
-                        on: new URL("main/tjsp/awshirt/assets/55fddead.png", import.meta.url).href,
+                        off: new URL("assets/818bcc6a.png", import.meta.url).href,
+                        on: new URL("assets/55fddead.png", import.meta.url).href,
                         taunt: this.$t("TAUNTS.UMBRELLA")
                     }
                 },
@@ -34756,7 +34756,7 @@ const Vce = pt(Bce, [
             }
         }
     }),
-    gC = "main/tjsp/awshirt/assets/BF7_oPMV.png",
+    gC = "assets/BF7_oPMV.png",
     Fce = t => (os("data-v-1a741540"), t = t(), ls(), t),
     $ce = {
         class: "voting"
@@ -34830,82 +34830,82 @@ const Jce = pt(Gce, [
                 baku: {
                     alt: this.$t("ALT.AVATARS.BAKU"),
                     intro: this.$t("INTROS.BAKU"),
-                    src: new URL("main/tjsp/awshirt/assets/BA8kt_V2.png", import.meta.url).href
+                    src: new URL("assets/BA8kt_V2.png", import.meta.url).href
                 },
                 blueDemon: {
                     alt: this.$t("ALT.AVATARS.BLUE_DEMON"),
                     intro: this.$t("INTROS.BLUE_DEMON"),
-                    src: new URL("main/tjsp/awshirt/assets/C0CwXALf.png", import.meta.url).href
+                    src: new URL("assets/C0CwXALf.png", import.meta.url).href
                 },
                 bun: {
                     alt: this.$t("ALT.AVATARS.BUN"),
                     intro: this.$t("INTROS.BUN"),
-                    src: new URL("main/tjsp/awshirt/assets/CFl3IhEl.png", import.meta.url).href
+                    src: new URL("assets/CFl3IhEl.png", import.meta.url).href
                 },
                 cat: {
                     alt: this.$t("ALT.AVATARS.CAT"),
                     intro: this.$t("INTROS.CAT"),
-                    src: new URL("main/tjsp/awshirt/assets/CBfR7cmv.png", import.meta.url).href
+                    src: new URL("assets/CBfR7cmv.png", import.meta.url).href
                 },
                 catfish: {
                     alt: this.$t("ALT.AVATARS.CATFISH"),
                     intro: this.$t("INTROS.CATFISH"),
-                    src: new URL("main/tjsp/awshirt/assets/BoNfUwr9.png", import.meta.url).href
+                    src: new URL("assets/BoNfUwr9.png", import.meta.url).href
                 },
                 crow: {
                     alt: this.$t("ALT.AVATARS.CROW"),
                     intro: this.$t("INTROS.CROW"),
-                    src: new URL("main/tjsp/awshirt/assets/CUlr3m13.png", import.meta.url).href
+                    src: new URL("assets/CUlr3m13.png", import.meta.url).href
                 },
                 dog: {
                     alt: this.$t("ALT.AVATARS.DOG"),
                     intro: this.$t("INTROS.DOG"),
-                    src: new URL("main/tjsp/awshirt/assets/fhrMnSRD.png", import.meta.url).href
+                    src: new URL("assets/fhrMnSRD.png", import.meta.url).href
                 },
                 fire: {
                     alt: this.$t("ALT.AVATARS.FIRE"),
                     intro: this.$t("INTROS.FIRE"),
-                    src: new URL("main/tjsp/awshirt/assets/Cl_C9BQI.png", import.meta.url).href
+                    src: new URL("assets/Cl_C9BQI.png", import.meta.url).href
                 },
                 fox: {
                     alt: this.$t("ALT.AVATARS.FOX"),
                     intro: this.$t("INTROS.FOX"),
-                    src: new URL("main/tjsp/awshirt/assets/Bt-QH_G2.png", import.meta.url).href
+                    src: new URL("assets/Bt-QH_G2.png", import.meta.url).href
                 },
                 hair: {
                     alt: this.$t("ALT.AVATARS.HAIR"),
                     intro: this.$t("INTROS.HAIR"),
-                    src: new URL("main/tjsp/awshirt/assets/DhdcyhQu.png", import.meta.url).href
+                    src: new URL("assets/DhdcyhQu.png", import.meta.url).href
                 },
                 kappa: {
                     alt: this.$t("ALT.AVATARS.KAPPA"),
                     intro: this.$t("INTROS.KAPPA"),
-                    src: new URL("main/tjsp/awshirt/assets/Clj3vUiO.png", import.meta.url).href
+                    src: new URL("assets/Clj3vUiO.png", import.meta.url).href
                 },
                 monkey: {
                     alt: this.$t("ALT.AVATARS.MONKEY"),
                     intro: this.$t("INTROS.MONKEY"),
-                    src: new URL("main/tjsp/awshirt/assets/DUKs5i0y.png", import.meta.url).href
+                    src: new URL("assets/DUKs5i0y.png", import.meta.url).href
                 },
                 raccoon: {
                     alt: this.$t("ALT.AVATARS.RACCOON"),
                     intro: this.$t("INTROS.RACCOON"),
-                    src: new URL("main/tjsp/awshirt/assets/BAcvZEfa.png", import.meta.url).href
+                    src: new URL("assets/BAcvZEfa.png", import.meta.url).href
                 },
                 redDemon: {
                     alt: this.$t("ALT.AVATARS.RED_DEMON"),
                     intro: this.$t("INTROS.RED_DEMON"),
-                    src: new URL("main/tjsp/awshirt/assets/DYZ5sitt.png", import.meta.url).href
+                    src: new URL("assets/DYZ5sitt.png", import.meta.url).href
                 },
                 snake: {
                     alt: this.$t("ALT.AVATARS.SNAKE"),
                     intro: this.$t("INTROS.SNAKE"),
-                    src: new URL("main/tjsp/awshirt/assets/DWaosN1g.png", import.meta.url).href
+                    src: new URL("assets/DWaosN1g.png", import.meta.url).href
                 },
                 umbrella: {
                     alt: this.$t("ALT.AVATARS.UMBRELLA"),
                     intro: this.$t("INTROS.UMBRELLA"),
-                    src: new URL("main/tjsp/awshirt/assets/BZ7mmell.png", import.meta.url).href
+                    src: new URL("assets/BZ7mmell.png", import.meta.url).href
                 }
             }), {
                 characters: t
@@ -35125,67 +35125,67 @@ const dAe = pt(oAe, [
             return this.$ecast.role === "player" && (t = {
                 baku: {
                     alt: this.$t("ALT.AVATARS.BAKU"),
-                    src: new URL("main/tjsp/awshirt/assets/79b2e811.png", import.meta.url).href
+                    src: new URL("assets/79b2e811.png", import.meta.url).href
                 },
                 blueDemon: {
                     alt: this.$t("ALT.AVATARS.BLUE_DEMON"),
-                    src: new URL("main/tjsp/awshirt/assets/c25d405a.png", import.meta.url).href
+                    src: new URL("assets/c25d405a.png", import.meta.url).href
                 },
                 bun: {
                     alt: this.$t("ALT.AVATARS.BUN"),
-                    src: new URL("main/tjsp/awshirt/assets/c9161cc9.png", import.meta.url).href
+                    src: new URL("assets/c9161cc9.png", import.meta.url).href
                 },
                 cat: {
                     alt: this.$t("ALT.AVATARS.CAT"),
-                    src: new URL("main/tjsp/awshirt/assets/190e9af5.png", import.meta.url).href
+                    src: new URL("assets/190e9af5.png", import.meta.url).href
                 },
                 catfish: {
                     alt: this.$t("ALT.AVATARS.CATFISH"),
-                    src: new URL("main/tjsp/awshirt/assets/NDxkdE0D.png", import.meta.url).href
+                    src: new URL("assets/NDxkdE0D.png", import.meta.url).href
                 },
                 crow: {
                     alt: this.$t("ALT.AVATARS.CROW"),
-                    src: new URL("main/tjsp/awshirt/assets/ae749559.png", import.meta.url).href
+                    src: new URL("assets/ae749559.png", import.meta.url).href
                 },
                 dog: {
                     alt: this.$t("ALT.AVATARS.DOG"),
-                    src: new URL("main/tjsp/awshirt/assets/ae202a5c.png", import.meta.url).href
+                    src: new URL("assets/ae202a5c.png", import.meta.url).href
                 },
                 fire: {
                     alt: this.$t("ALT.AVATARS.FIRE"),
-                    src: new URL("main/tjsp/awshirt/assets/5ed682f7.png", import.meta.url).href
+                    src: new URL("assets/5ed682f7.png", import.meta.url).href
                 },
                 fox: {
                     alt: this.$t("ALT.AVATARS.FOX"),
-                    src: new URL("main/tjsp/awshirt/assets/eff6fe51.png", import.meta.url).href
+                    src: new URL("assets/eff6fe51.png", import.meta.url).href
                 },
                 hair: {
                     alt: this.$t("ALT.AVATARS.HAIR"),
-                    src: new URL("main/tjsp/awshirt/assets/b1267c3a.png", import.meta.url).href
+                    src: new URL("assets/b1267c3a.png", import.meta.url).href
                 },
                 kappa: {
                     alt: this.$t("ALT.AVATARS.KAPPA"),
-                    src: new URL("main/tjsp/awshirt/assets/88bb1af3.png", import.meta.url).href
+                    src: new URL("assets/88bb1af3.png", import.meta.url).href
                 },
                 monkey: {
                     alt: this.$t("ALT.AVATARS.MONKEY"),
-                    src: new URL("main/tjsp/awshirt/assets/dd11737c.png", import.meta.url).href
+                    src: new URL("assets/dd11737c.png", import.meta.url).href
                 },
                 raccoon: {
                     alt: this.$t("ALT.AVATARS.RACCOON"),
-                    src: new URL("main/tjsp/awshirt/assets/DKS2W9k0.png", import.meta.url).href
+                    src: new URL("assets/DKS2W9k0.png", import.meta.url).href
                 },
                 redDemon: {
                     alt: this.$t("ALT.AVATARS.RED_DEMON"),
-                    src: new URL("main/tjsp/awshirt/assets/f7773361.png", import.meta.url).href
+                    src: new URL("assets/f7773361.png", import.meta.url).href
                 },
                 snake: {
                     alt: this.$t("ALT.AVATARS.SNAKE"),
-                    src: new URL("main/tjsp/awshirt/assets/2d5b9d18.png", import.meta.url).href
+                    src: new URL("assets/2d5b9d18.png", import.meta.url).href
                 },
                 umbrella: {
                     alt: this.$t("ALT.AVATARS.UMBRELLA"),
-                    src: new URL("main/tjsp/awshirt/assets/DpjKNety.png", import.meta.url).href
+                    src: new URL("assets/DpjKNety.png", import.meta.url).href
                 }
             }), {
                 icons: t
