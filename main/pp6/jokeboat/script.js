@@ -21047,7 +21047,7 @@ const $x = Et.View.extend({
 </div>`,
     Ux = `<div class="joke-info">
     <div class="arrow"></div>
-    <p>Por <em>MITAD</em> de puntos</p>
+    <p>Por la <em>MITAD</em> de puntos</p>
 </div>`,
     Gx = Ma.extend({
         onRender() {

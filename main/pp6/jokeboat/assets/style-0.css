@@ -23281,7 +23281,7 @@ li>a.button-color.active[data-color="#000000"] {
 }
 
 .jokeboat.catchphrase .playerTopBarView .playerTopBar:before {
-    content: "JOKE BOOK:";
+    content: "LIBRO DE CHISTES:";
     position: absolute;
     top: 20px;
     left: 0;

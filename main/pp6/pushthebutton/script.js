@@ -21621,7 +21621,7 @@ class Tt {
         }, e.titleText = e.titleText || "Error", Pi.fire(e)
     }
     static async showError(e) {
-        const i = new URL("main/pp6/pushthebutton/assets/0CPrtL2T.png", import.meta.url).href,
+        const i = new URL("assets/0CPrtL2T.png", import.meta.url).href,
             r = e.customClass || {};
         return e.customClass = {
             ...r,
@@ -22053,7 +22053,7 @@ const wR = `<div class="canvasContainer">\r
     IR = `<ul class="nav nav-colors">\r
     <li class="pull-left button-pad">\r
         <button id="undoButton" class="undo button">\r
-            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 64 64"><image x="12" y="20" width="41" height="39" xlink:href="main/pp6/pushthebutton/assets/5f12600b.png"/></svg>\r
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 64 64"><image x="12" y="20" width="41" height="39" xlink:href="assets/5f12600b.png"/></svg>\r
         </button>\r
     </li>\r
     <li class="pull-left button-pad"> \r
