@@ -21204,7 +21204,7 @@ const $x = Et.View.extend({
 
         <div class="pt-page-off state-waitforallpercentages pollposition-page">
             <div class="container">
-                <p class='pollposition-text'>Gracias por tu aporte.<br/>Esperando a otros jugadores.</p>
+                <p class='pollposition-text'>Gracias por tu aporte.<br/>Esperando a los otros jugadores.</p>
             </div>
         </div>
 

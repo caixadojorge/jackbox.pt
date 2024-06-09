@@ -21267,7 +21267,7 @@ const m1 = GC.extend({
                         break;
                     case "KeypadBomb":
                         if (this.$el.find("#bombintern-keypadbomb-triggers").html(""), this.buildRuleFolder(a, "bombintern-keypadbomb-rules"), i.triggers && i.triggers.length > 0) {
-                            t = "<div class='bomb-header' id='button-header'><span>Enter a 4-digit keycode:</span></div>";
+                            t = "<div class='bomb-header' id='button-header'><span>Ingresa un código de 4 dígitos:</span></div>";
                             for (let _ = 0; _ < i.triggers.length; ++_) {
                                 const S = i.triggers[_];
                                 let O = S.key;
