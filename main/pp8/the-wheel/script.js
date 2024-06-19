@@ -35775,8 +35775,8 @@ ${e}`
                     isSending: !1,
                     hasSent: !1,
                     eggNames: {
-                        pizza: ["PIZZA", "LEONARDO", "RAPHAEL", "DONATELLO", "MICHELANGELO"],
-                        loser: ["REDACTADO", "PERDEDOR", "[REDACTADO]"],
+                        pizza: ["PIZZA", "LEONARDO", "RAPHAEL", "DONATELLO", "MICHELANGELO", "RAFAEL", "DONATELO", "MIGUEL ÁNGEL", "MIGUEL ANGEL"],
+                        loser: ["REDACTADO", "PERDEDOR", "[REDACTADO]", "REDACTED", "[REDACTED]"],
                         tiny: ["PEQUEÑA"]
                     },
                     sliceManager: new y3(this.player.slices, this.player.category, this.info, this.players),
