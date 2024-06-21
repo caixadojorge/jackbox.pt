@@ -33353,7 +33353,7 @@ const Qle = t => {
         }
     },
     sfe = {
-        INSTRUCTION: "¡Elige tu favorito!",
+        INSTRUCTION: "¡Elige tu favorita!",
         THANKS: "¡Gracias por votar! Tu elección:"
     },
     afe = {
