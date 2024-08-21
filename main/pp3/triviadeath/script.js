@@ -21262,7 +21262,7 @@ const Gx = VC.extend({
                 if (a) {
                     if (n += `<p>${a.wonGame?"FELICIDADES":"¡QUÉ TRAGEDIA!"}</p>`, d === "MakeSingleChoice")
                         for (let E = 0; E < e.choices.length; E++) n += `<button data-choice="${E}" class="light-text button-choice button-game button-large btn btn-block">${e.choices[E].text}</button>`;
-                    i += `<p>${a.wonGame?"¡Sobreviviste el juego!":"No sobreviviste el juego"}</p>`, i += "<BR>", i += `<p>Tu puntuación final: $${a.score}</p>`
+                    i += `<p>${a.wonGame?"¡Sobreviviste el juego!":"No sobreviviste el juego"}</p>`, i += "<BR>", i += `<p>Tu putnaje final: $${a.score}</p>`
                 }
                 const g = this.model.get("room").artifact;
                 if (g && g.success && g.rootId) {
@@ -21279,7 +21279,7 @@ const Gx = VC.extend({
             } else {
                 let a = 0;
                 for (let g = 0; g < t.players.length; g++) t.players[g].wonGame && (a = t.players[g].score);
-                t.audience && (n += `<p>${t.audience.survived?"FELICIDADES":"¡QUÉ TRAGEDIA!"}</p>`, i += `<p>${t.audience.survived?"¡El público ha SOBREVIVIDO!":"¡El público ha MUERTO, y también tú!"}</p>`, i += "<BR>", i += `<p>${t.audience.count} audience ${t.audience.count===1?"miembro":"miembros"} obtuvieron: $${t.audience.score}</p>`, i += "<BR>", i += `<p>Puntuación que superar: $${a}</p>`);
+                t.audience && (n += `<p>${t.audience.survived?"FELICIDADES":"¡QUÉ TRAGEDIA!"}</p>`, i += `<p>${t.audience.survived?"¡El público ha SOBREVIVIDO!":"¡El público ha MUERTO, y también tú!"}</p>`, i += "<BR>", i += `<p>${t.audience.count} audience ${t.audience.count===1?"miembro":"miembros"} obtuvieron: $${t.audience.score}</p>`, i += "<BR>", i += `<p>Puntaje que superar: $${a}</p>`);
                 const d = this.model.get("room").artifact;
                 if (d && d.success && d.rootId) {
                     let g = "games.jackbox.tv";
