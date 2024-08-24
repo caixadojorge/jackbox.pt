@@ -21168,7 +21168,7 @@ const gk = da.extend({
             error: null
         }), this.guesses.length || this.triggerMethod("client:gCounter", {
             key: t
-        }), r.length === 0 ? a = this.model.get("strings").ERROR_NOTHING_ENTERED : this.guesses.includes(s) ? a = `You already guessed ${r}, try again!` : e.includes(s) ? (this.model.setUpdate({
+        }), r.length === 0 ? a = this.model.get("strings").ERROR_NOTHING_ENTERED : this.guesses.includes(s) ? a = `Ya adivinaste ${r}, ¡inténtalo de nuevo!` : e.includes(s) ? (this.model.setUpdate({
             prompt: {
                 html: `¡Yey, ${r} es correcto!`,
                 entry: ""

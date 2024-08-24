@@ -7,7 +7,7 @@ var qN = (e, t, n) => t in e ? QN(e, t, {
 }) : e[t] = n;
 var ek = (e, t) => () => (t || e((t = {
     exports: {}
-}).exports, t), t.exports);
+}).exports, t), t.exports);F
 var Oe = (e, t, n) => (qN(e, typeof t != "symbol" ? t + "" : t, n), n);
 var hue = ek((gue, OI) => {
     const tk = function() {
@@ -33286,7 +33286,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         },
         Fce = V("div", {
             class: "success"
-        }, "You picked:", -1),
+        }, "Elegiste:", -1),
         jce = {
             class: "choice"
         };
