@@ -21790,7 +21790,7 @@ const wR = je.View.extend({
         }
     }),
     MR = `<div class="clamp">
-    <p class="info">Esta tarea no puede comenzar sin ayudantes. Grita a tu familia que se una a ti.</br>O puedes abandonar esta tarea tocando la X.</p>
+    <p class="info">Esta tarea no puede comenzar sin ayudantes. Grítale a tu familia para que se una a ti.</br>O puedes abandonar esta tarea tocando la X.</p>
 </div>
 <button class="leave"></button>
 <div class="instructions-container">
@@ -28314,7 +28314,7 @@ const CT = je.View.extend({
             ".instructions": {
                 observe: "name",
                 onGet(t) {
-                    return `Reune artículos para ${t}`
+                    return `Reúne artículos para ${t}`
                 }
             },
             ".score": {
