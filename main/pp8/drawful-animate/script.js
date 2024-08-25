@@ -27671,7 +27671,7 @@ ${t}`
             SLIDE_2_ITEM_2: "Las líneas desvanecidas no aparecerán en la animación.",
             SLIDE_3_TITLE: "Tienes 3 colores.",
             SLIDE_3_ITEM_1: "Cada jugador tiene un conjunto de colores diferente.",
-            SLIDE_3_ITEM_2: "No hay borrador.",
+            SLIDE_3_ITEM_2: "NO hay borrador.",
             SLIDE_4_TITLE: "Cuando AMBOS fotogramas estén listos, toca el botón Enviar.",
             SLIDE_4_ITEM_1: "Puedes alternar entre pestañas antes de enviar.",
             SLIDE_5_TITLE: "¡Y presto, es tu avatar!"

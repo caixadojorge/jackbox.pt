@@ -27869,7 +27869,7 @@ ${e}`
             })
         },
         Lce = "PREGUNTAR",
-        Mce = "Has usado una palabra que La Ruleta no aprueba. Inténtalo de nuevo",
+        Mce = "Has usado una palabra que La Ruleta no aprueba. Inténtalo de nuevo.",
         Pce = "NO",
         kce = "O",
         Nce = "ENVIAR",
@@ -27935,7 +27935,7 @@ ${e}`
             BAD: "porción de calavera.",
             BONUS: "porción de poder para {for}.",
             EMPTY: "vacío.",
-            MULTIPLIER: "multiplicador {multiplier}x vacío.",
+            MULTIPLIER: "multiplicador x{multiplier} vacío.",
             NEIGHBOR: "porción vecina.",
             PLAYER: "porción de jugador para {for}.",
             POINTS: "{points} porción de puntos.",
