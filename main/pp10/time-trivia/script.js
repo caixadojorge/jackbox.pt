@@ -24570,9 +24570,9 @@ ${t}`
         cne = {
             class: "content"
         },
-        lne = lc(() => G("h1", null, "You have encountered an error", -1)),
-        une = lc(() => G("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        fne = lc(() => G("ul", null, [G("li", null, "Refresh the page"), G("li", null, "Turn off adblockers or other browser extensions."), G("li", null, "Check your connection to the Internet."), G("li", null, "Make sure you're using an up-to-date browser."), G("li", null, "If that doesn't work, let us know.")], -1)),
+        lne = lc(() => G("h1", null, "Se ha producido un error", -1)),
+        une = lc(() => G("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        fne = lc(() => G("ul", null, [G("li", null, "Refresh the page"), G("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), G("li", null, "Comprueba tu conexión a Internet."), G("li", null, "Asegúrate de estar utilizando un navegador actualizado."), G("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         dne = lc(() => G("hr", null, null, -1)),
         hne = {
             class: "error"
@@ -24581,7 +24581,7 @@ ${t}`
     function pne(e, t, r, n, s, a) {
         return z(), J("div", sne, [G("div", ane, [one, G("div", cne, [lne, une, fne, G("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), dne, G("pre", hne, Ie(e.message), 1)])])])
+        }, "Dinos qué pasó"), dne, G("pre", hne, Ie(e.message), 1)])])])
     }
     const gne = ft(ine, [
             ["render", pne],

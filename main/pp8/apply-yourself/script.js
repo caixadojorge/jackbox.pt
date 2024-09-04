@@ -23032,9 +23032,9 @@ ${t}`
         Zne = {
             class: "content"
         },
-        Qne = uc(() => V("h1", null, "You have encountered an error", -1)),
-        qne = uc(() => V("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        ere = uc(() => V("ul", null, [V("li", null, "Refresh the page"), V("li", null, "Turn off adblockers or other browser extensions."), V("li", null, "Check your connection to the Internet."), V("li", null, "Make sure you're using an up-to-date browser."), V("li", null, "If that doesn't work, let us know.")], -1)),
+        Qne = uc(() => V("h1", null, "Se ha producido un error", -1)),
+        qne = uc(() => V("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        ere = uc(() => V("ul", null, [V("li", null, "Refresh the page"), V("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), V("li", null, "Comprueba tu conexión a Internet."), V("li", null, "Asegúrate de estar utilizando un navegador actualizado."), V("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         tre = uc(() => V("hr", null, null, -1)),
         nre = {
             class: "error"
@@ -23043,7 +23043,7 @@ ${t}`
     function rre(e, t, n, r, i, o) {
         return J(), ie("div", Xne, [V("div", zne, [Jne, V("div", Zne, [Qne, qne, ere, V("button", {
             onClick: t[0] || (t[0] = (...s) => e.onFeedbackClick && e.onFeedbackClick(...s))
-        }, "Tell us what happened"), tre, V("pre", nre, $e(e.message), 1)])])])
+        }, "Dinos qué pasó"), tre, V("pre", nre, $e(e.message), 1)])])])
     }
     const ire = St(Yne, [
             ["render", rre],

@@ -24166,9 +24166,9 @@ ${t}`
         nte = {
             class: "content"
         },
-        ite = oc(() => x("h1", null, "You have encountered an error", -1)),
-        ste = oc(() => x("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        ote = oc(() => x("ul", null, [x("li", null, "Refresh the page"), x("li", null, "Turn off adblockers or other browser extensions."), x("li", null, "Check your connection to the Internet."), x("li", null, "Make sure you're using an up-to-date browser."), x("li", null, "If that doesn't work, let us know.")], -1)),
+        ite = oc(() => x("h1", null, "Se ha producido un error", -1)),
+        ste = oc(() => x("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        ote = oc(() => x("ul", null, [x("li", null, "Refresh the page"), x("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), x("li", null, "Comprueba tu conexión a Internet."), x("li", null, "Asegúrate de estar utilizando un navegador actualizado."), x("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         ate = oc(() => x("hr", null, null, -1)),
         cte = {
             class: "error"
@@ -24177,7 +24177,7 @@ ${t}`
     function lte(e, t, r, n, s, o) {
         return V(), J("div", ete, [x("div", tte, [rte, x("div", nte, [ite, ste, ote, x("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), ate, x("pre", cte, pe(e.message), 1)])])])
+        }, "Dinos qué pasó"), ate, x("pre", cte, pe(e.message), 1)])])])
     }
     const ute = wt(Zee, [
             ["render", lte],

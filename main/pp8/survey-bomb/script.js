@@ -24019,9 +24019,9 @@ ${t}`
         Wee = {
             class: "content"
         },
-        Kee = ec(() => J("h1", null, "You have encountered an error", -1)),
-        qee = ec(() => J("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        Hee = ec(() => J("ul", null, [J("li", null, "Refresh the page"), J("li", null, "Turn off adblockers or other browser extensions."), J("li", null, "Check your connection to the Internet."), J("li", null, "Make sure you're using an up-to-date browser."), J("li", null, "If that doesn't work, let us know.")], -1)),
+        Kee = ec(() => J("h1", null, "Se ha producido un error", -1)),
+        qee = ec(() => J("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        Hee = ec(() => J("ul", null, [J("li", null, "Refresh the page"), J("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), J("li", null, "Comprueba tu conexión a Internet."), J("li", null, "Asegúrate de estar utilizando un navegador actualizado."), J("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Vee = ec(() => J("hr", null, null, -1)),
         Yee = {
             class: "error"
@@ -24030,7 +24030,7 @@ ${t}`
     function zee(e, t, r, n, s, a) {
         return j(), Y("div", Bee, [J("div", jee, [Gee, J("div", Wee, [Kee, qee, Hee, J("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), Vee, J("pre", Yee, Ue(e.message), 1)])])])
+        }, "Dinos qué pasó"), Vee, J("pre", Yee, Ue(e.message), 1)])])])
     }
     const Xee = qe(Fee, [
             ["render", zee],

@@ -24270,9 +24270,9 @@ ${e}`
         Yie = {
             class: "content"
         },
-        zie = Fu(() => ee("h1", null, "You have encountered an error", -1)),
-        Xie = Fu(() => ee("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        Jie = Fu(() => ee("ul", null, [ee("li", null, "Refresh the page"), ee("li", null, "Turn off adblockers or other browser extensions."), ee("li", null, "Check your connection to the Internet."), ee("li", null, "Make sure you're using an up-to-date browser."), ee("li", null, "If that doesn't work, let us know.")], -1)),
+        zie = Fu(() => ee("h1", null, "Se ha producido un error", -1)),
+        Xie = Fu(() => ee("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        Jie = Fu(() => ee("ul", null, [ee("li", null, "Refresh the page"), ee("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), ee("li", null, "Comprueba tu conexión a Internet."), ee("li", null, "Asegúrate de estar utilizando un navegador actualizado."), ee("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Qie = Fu(() => ee("hr", null, null, -1)),
         Zie = {
             class: "error"
@@ -24281,7 +24281,7 @@ ${e}`
     function ese(t, e, r, n, i, s) {
         return te(), oe("div", Kie, [ee("div", Vie, [qie, ee("div", Yie, [zie, Xie, Jie, ee("button", {
             onClick: e[0] || (e[0] = (...a) => t.onFeedbackClick && t.onFeedbackClick(...a))
-        }, "Tell us what happened"), Qie, ee("pre", Zie, Et(t.message), 1)])])])
+        }, "Dinos qué pasó"), Qie, ee("pre", Zie, Et(t.message), 1)])])])
     }
     const tse = rt(Hie, [
             ["render", ese],

@@ -29717,9 +29717,9 @@ ${e}`
     vae = {
         class: "content"
     },
-    bae = vl(() => te("h1", null, "You have encountered an error", -1)),
-    Rae = vl(() => te("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    Sae = vl(() => te("ul", null, [te("li", null, "Refresh the page"), te("li", null, "Turn off adblockers or other browser extensions."), te("li", null, "Check your connection to the Internet."), te("li", null, "Make sure you're using an up-to-date browser."), te("li", null, "If that doesn't work, let us know.")], -1)),
+    bae = vl(() => te("h1", null, "Se ha producido un error", -1)),
+    Rae = vl(() => te("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    Sae = vl(() => te("ul", null, [te("li", null, "Refresh the page"), te("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), te("li", null, "Comprueba tu conexión a Internet."), te("li", null, "Asegúrate de estar utilizando un navegador actualizado."), te("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     Lae = vl(() => te("hr", null, null, -1)),
     Aae = {
         class: "error"
@@ -29728,7 +29728,7 @@ ${e}`
 function Cae(t, e, r, n, s, a) {
     return ee(), ue("div", Tae, [te("div", xae, [yae, te("div", vae, [bae, Rae, Sae, te("button", {
         onClick: e[0] || (e[0] = (...u) => t.onFeedbackClick && t.onFeedbackClick(...u))
-    }, "Tell us what happened"), Lae, te("pre", Aae, ft(t.message), 1)])])])
+    }, "Dinos qué pasó"), Lae, te("pre", Aae, ft(t.message), 1)])])])
 }
 const Oae = lt(mae, [
         ["render", Cae],

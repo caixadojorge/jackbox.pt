@@ -29214,9 +29214,9 @@ ${e}`
     Tae = {
         class: "content"
     },
-    yae = Rl(() => H("h1", null, "You have encountered an error", -1)),
-    Rae = Rl(() => H("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    bae = Rl(() => H("ul", null, [H("li", null, "Refresh the page"), H("li", null, "Turn off adblockers or other browser extensions."), H("li", null, "Check your connection to the Internet."), H("li", null, "Make sure you're using an up-to-date browser."), H("li", null, "If that doesn't work, let us know.")], -1)),
+    yae = Rl(() => H("h1", null, "Se ha producido un error", -1)),
+    Rae = Rl(() => H("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    bae = Rl(() => H("ul", null, [H("li", null, "Refresh the page"), H("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), H("li", null, "Comprueba tu conexión a Internet."), H("li", null, "Asegúrate de estar utilizando un navegador actualizado."), H("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     xae = Rl(() => H("hr", null, null, -1)),
     vae = {
         class: "error"
@@ -29225,7 +29225,7 @@ ${e}`
 function Sae(t, e, r, n, i, s) {
     return G(), z("div", _ae, [H("div", gae, [mae, H("div", Tae, [yae, Rae, bae, H("button", {
         onClick: e[0] || (e[0] = (...o) => t.onFeedbackClick && t.onFeedbackClick(...o))
-    }, "Tell us what happened"), xae, H("pre", vae, Ue(t.message), 1)])])])
+    }, "Dinos qué pasó"), xae, H("pre", vae, Ue(t.message), 1)])])])
 }
 const Lae = He(dae, [
         ["render", Sae],

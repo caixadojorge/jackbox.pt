@@ -24468,9 +24468,9 @@ ${t}`
         pre = {
             class: "content"
         },
-        gre = cc(() => W("h1", null, "You have encountered an error", -1)),
-        _re = cc(() => W("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        mre = cc(() => W("ul", null, [W("li", null, "Refresh the page"), W("li", null, "Turn off adblockers or other browser extensions."), W("li", null, "Check your connection to the Internet."), W("li", null, "Make sure you're using an up-to-date browser."), W("li", null, "If that doesn't work, let us know.")], -1)),
+        gre = cc(() => W("h1", null, "Se ha producido un error", -1)),
+        _re = cc(() => W("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        mre = cc(() => W("ul", null, [W("li", null, "Refresh the page"), W("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), W("li", null, "Comprueba tu conexión a Internet."), W("li", null, "Asegúrate de estar utilizando un navegador actualizado."), W("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         vre = cc(() => W("hr", null, null, -1)),
         yre = {
             class: "error"
@@ -24479,7 +24479,7 @@ ${t}`
     function Ore(e, t, r, n, i, o) {
         return z(), ne("div", fre, [W("div", dre, [hre, W("div", pre, [gre, _re, mre, W("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), vre, W("pre", yre, ut(e.message), 1)])])])
+        }, "Dinos qué pasó"), vre, W("pre", yre, ut(e.message), 1)])])])
     }
     const Ere = ct(ure, [
             ["render", Ore],

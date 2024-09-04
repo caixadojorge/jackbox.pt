@@ -28744,9 +28744,9 @@ ${e}`
     zse = {
         class: "content"
     },
-    Jse = Il(() => W("h1", null, "You have encountered an error", -1)),
-    eae = Il(() => W("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    tae = Il(() => W("ul", null, [W("li", null, "Refresh the page"), W("li", null, "Turn off adblockers or other browser extensions."), W("li", null, "Check your connection to the Internet."), W("li", null, "Make sure you're using an up-to-date browser."), W("li", null, "If that doesn't work, let us know.")], -1)),
+    Jse = Il(() => W("h1", null, "Se ha producido un error", -1)),
+    eae = Il(() => W("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    tae = Il(() => W("ul", null, [W("li", null, "Refresh the page"), W("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), W("li", null, "Comprueba tu conexión a Internet."), W("li", null, "Asegúrate de estar utilizando un navegador actualizado."), W("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     rae = Il(() => W("hr", null, null, -1)),
     nae = {
         class: "error"
@@ -28755,7 +28755,7 @@ ${e}`
 function iae(t, e, r, n, i, a) {
     return ee(), le("div", qse, [W("div", Zse, [Qse, W("div", zse, [Jse, eae, tae, W("button", {
         onClick: e[0] || (e[0] = (...u) => t.onFeedbackClick && t.onFeedbackClick(...u))
-    }, "Tell us what happened"), rae, W("pre", nae, ft(t.message), 1)])])])
+    }, "Dinos qué pasó"), rae, W("pre", nae, ft(t.message), 1)])])])
 }
 const sae = lt(Wse, [
         ["render", iae],

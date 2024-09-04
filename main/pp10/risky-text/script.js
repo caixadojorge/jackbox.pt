@@ -25902,9 +25902,9 @@ ${t}`
         Kle = {
             class: "content"
         },
-        Zle = Du(() => H("h1", null, "You have encountered an error", -1)),
-        zle = Du(() => H("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        Yle = Du(() => H("ul", null, [H("li", null, "Refresh the page"), H("li", null, "Turn off adblockers or other browser extensions."), H("li", null, "Check your connection to the Internet."), H("li", null, "Make sure you're using an up-to-date browser."), H("li", null, "If that doesn't work, let us know.")], -1)),
+        Zle = Du(() => H("h1", null, "Se ha producido un error", -1)),
+        zle = Du(() => H("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        Yle = Du(() => H("ul", null, [H("li", null, "Refresh the page"), H("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), H("li", null, "Comprueba tu conexión a Internet."), H("li", null, "Asegúrate de estar utilizando un navegador actualizado."), H("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Xle = Du(() => H("hr", null, null, -1)),
         Qle = {
             class: "error"
@@ -25913,7 +25913,7 @@ ${t}`
     function Jle(e, t, r, n, i, s) {
         return ie(), oe("div", Hle, [H("div", Vle, [Wle, H("div", Kle, [Zle, zle, Yle, H("button", {
             onClick: t[0] || (t[0] = (...o) => e.onFeedbackClick && e.onFeedbackClick(...o))
-        }, "Tell us what happened"), Xle, H("pre", Qle, Ye(e.message), 1)])])])
+        }, "Dinos qué pasó"), Xle, H("pre", Qle, Ye(e.message), 1)])])])
     }
     const ece = ut(qle, [
             ["render", Jle],

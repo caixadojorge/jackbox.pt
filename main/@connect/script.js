@@ -35655,9 +35655,9 @@ ${e}`
     _se = {
         class: "content"
     },
-    Tse = uu(() => ve("h1", null, "You have encountered an error", -1)),
-    vse = uu(() => ve("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    bse = uu(() => ve("ul", null, [ve("li", null, "Refresh the page"), ve("li", null, "Turn off adblockers or other browser extensions."), ve("li", null, "Check your connection to the Internet."), ve("li", null, "Make sure you're using an up-to-date browser."), ve("li", null, "If that doesn't work, let us know.")], -1)),
+    Tse = uu(() => ve("h1", null, "Se ha producido un error", -1)),
+    vse = uu(() => ve("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    bse = uu(() => ve("ul", null, [ve("li", null, "Refresh the page"), ve("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), ve("li", null, "Comprueba tu conexión a Internet."), ve("li", null, "Asegúrate de estar utilizando un navegador actualizado."), ve("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     xse = uu(() => ve("hr", null, null, -1)),
     Rse = {
         class: "error"
@@ -35666,7 +35666,7 @@ ${e}`
 function Sse(t, e, r, n, i, s) {
     return Le(), Oe("div", Ese, [ve("div", mse, [gse, ve("div", _se, [Tse, vse, bse, ve("button", {
         onClick: e[0] || (e[0] = (...o) => t.onFeedbackClick && t.onFeedbackClick(...o))
-    }, "Tell us what happened"), xse, ve("pre", Rse, Je(t.message), 1)])])])
+    }, "Dinos qué pasó"), xse, ve("pre", Rse, Je(t.message), 1)])])])
 }
 const yse = Ur(hse, [
         ["render", Sse],

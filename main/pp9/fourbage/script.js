@@ -23982,9 +23982,9 @@ ${t}`
         Mee = {
             class: "content"
         },
-        Uee = tc(() => Q("h1", null, "You have encountered an error", -1)),
-        Fee = tc(() => Q("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        Bee = tc(() => Q("ul", null, [Q("li", null, "Refresh the page"), Q("li", null, "Turn off adblockers or other browser extensions."), Q("li", null, "Check your connection to the Internet."), Q("li", null, "Make sure you're using an up-to-date browser."), Q("li", null, "If that doesn't work, let us know.")], -1)),
+        Uee = tc(() => Q("h1", null, "Se ha producido un error", -1)),
+        Fee = tc(() => Q("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        Bee = tc(() => Q("ul", null, [Q("li", null, "Refresh the page"), Q("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), Q("li", null, "Comprueba tu conexión a Internet."), Q("li", null, "Asegúrate de estar utilizando un navegador actualizado."), Q("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Gee = tc(() => Q("hr", null, null, -1)),
         jee = {
             class: "error"
@@ -23993,7 +23993,7 @@ ${t}`
     function Wee(e, t, r, n, s, a) {
         return H(), X("div", Pee, [Q("div", xee, [Dee, Q("div", Mee, [Uee, Fee, Bee, Q("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), Gee, Q("pre", jee, At(e.message), 1)])])])
+        }, "Dinos qué pasó"), Gee, Q("pre", jee, At(e.message), 1)])])])
     }
     const Vee = Ze(kee, [
             ["render", Wee],

@@ -29194,9 +29194,9 @@ ${e}`
     uae = {
         class: "content"
     },
-    fae = wl(() => G("h1", null, "You have encountered an error", -1)),
-    cae = wl(() => G("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    hae = wl(() => G("ul", null, [G("li", null, "Refresh the page"), G("li", null, "Turn off adblockers or other browser extensions."), G("li", null, "Check your connection to the Internet."), G("li", null, "Make sure you're using an up-to-date browser."), G("li", null, "If that doesn't work, let us know.")], -1)),
+    fae = wl(() => G("h1", null, "Se ha producido un error", -1)),
+    cae = wl(() => G("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    hae = wl(() => G("ul", null, [G("li", null, "Refresh the page"), G("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), G("li", null, "Comprueba tu conexión a Internet."), G("li", null, "Asegúrate de estar utilizando un navegador actualizado."), G("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     pae = wl(() => G("hr", null, null, -1)),
     Eae = {
         class: "error"
@@ -29205,7 +29205,7 @@ ${e}`
 function dae(t, e, r, n, i, s) {
     return q(), Z("div", aae, [G("div", oae, [lae, G("div", uae, [fae, cae, hae, G("button", {
         onClick: e[0] || (e[0] = (...u) => t.onFeedbackClick && t.onFeedbackClick(...u))
-    }, "Tell us what happened"), pae, G("pre", Eae, Be(t.message), 1)])])])
+    }, "Dinos qué pasó"), pae, G("pre", Eae, Be(t.message), 1)])])])
 }
 const _ae = ft(sae, [
         ["render", dae],

@@ -29890,9 +29890,9 @@ ${e}`
     zne = {
         class: "content"
     },
-    Jne = Qo(() => Te("h1", null, "You have encountered an error", -1)),
-    Zne = Qo(() => Te("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    Qne = Qo(() => Te("ul", null, [Te("li", null, "Refresh the page"), Te("li", null, "Turn off adblockers or other browser extensions."), Te("li", null, "Check your connection to the Internet."), Te("li", null, "Make sure you're using an up-to-date browser."), Te("li", null, "If that doesn't work, let us know.")], -1)),
+    Jne = Qo(() => Te("h1", null, "Se ha producido un error", -1)),
+    Zne = Qo(() => Te("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    Qne = Qo(() => Te("ul", null, [Te("li", null, "Refresh the page"), Te("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), Te("li", null, "Comprueba tu conexión a Internet."), Te("li", null, "Asegúrate de estar utilizando un navegador actualizado."), Te("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     eie = Qo(() => Te("hr", null, null, -1)),
     tie = {
         class: "error"
@@ -29901,7 +29901,7 @@ ${e}`
 function rie(t, e, r, n, s, a) {
     return Pe(), et("div", Xne, [Te("div", qne, [Yne, Te("div", zne, [Jne, Zne, Qne, Te("button", {
         onClick: e[0] || (e[0] = (...l) => t.onFeedbackClick && t.onFeedbackClick(...l))
-    }, "Tell us what happened"), eie, Te("pre", tie, Wt(t.message), 1)])])])
+    }, "Dinos qué pasó"), eie, Te("pre", tie, Wt(t.message), 1)])])])
 }
 const nie = Rr(jne, [
         ["render", rie],

@@ -31700,9 +31700,9 @@ ${e}`
     iie = {
         class: "content"
     },
-    sie = gl(() => P("h1", null, "You have encountered an error", -1)),
-    aie = gl(() => P("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    oie = gl(() => P("ul", null, [P("li", null, "Refresh the page"), P("li", null, "Turn off adblockers or other browser extensions."), P("li", null, "Check your connection to the Internet."), P("li", null, "Make sure you're using an up-to-date browser."), P("li", null, "If that doesn't work, let us know.")], -1)),
+    sie = gl(() => P("h1", null, "Se ha producido un error", -1)),
+    aie = gl(() => P("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    oie = gl(() => P("ul", null, [P("li", null, "Refresh the page"), P("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), P("li", null, "Comprueba tu conexión a Internet."), P("li", null, "Asegúrate de estar utilizando un navegador actualizado."), P("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     lie = gl(() => P("hr", null, null, -1)),
     uie = {
         class: "error"
@@ -31711,7 +31711,7 @@ ${e}`
 function fie(t, e, r, n, s, a) {
     return G(), X("div", tie, [P("div", rie, [nie, P("div", iie, [sie, aie, oie, P("button", {
         onClick: e[0] || (e[0] = (...u) => t.onFeedbackClick && t.onFeedbackClick(...u))
-    }, "Tell us what happened"), lie, P("pre", uie, ve(t.message), 1)])])])
+    }, "Dinos qué pasó"), lie, P("pre", uie, ve(t.message), 1)])])])
 }
 const cie = at(eie, [
         ["render", fie],

@@ -26853,9 +26853,9 @@ ${t}`
         kre = {
             class: "content"
         },
-        Ure = Xa(() => ye("h1", null, "You have encountered an error", -1)),
-        Bre = Xa(() => ye("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        Fre = Xa(() => ye("ul", null, [ye("li", null, "Refresh the page"), ye("li", null, "Turn off adblockers or other browser extensions."), ye("li", null, "Check your connection to the Internet."), ye("li", null, "Make sure you're using an up-to-date browser."), ye("li", null, "If that doesn't work, let us know.")], -1)),
+        Ure = Xa(() => ye("h1", null, "Se ha producido un error", -1)),
+        Bre = Xa(() => ye("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        Fre = Xa(() => ye("ul", null, [ye("li", null, "Refresh the page"), ye("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), ye("li", null, "Comprueba tu conexión a Internet."), ye("li", null, "Asegúrate de estar utilizando un navegador actualizado."), ye("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Gre = Xa(() => ye("hr", null, null, -1)),
         Wre = {
             class: "error"
@@ -26864,7 +26864,7 @@ ${t}`
     function jre(e, t, r, n, s, o) {
         return Ge(), Qe("div", Dre, [ye("div", xre, [Mre, ye("div", kre, [Ure, Bre, Fre, ye("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), Gre, ye("pre", Wre, kr(e.message), 1)])])])
+        }, "Dinos qué pasó"), Gre, ye("pre", Wre, kr(e.message), 1)])])])
     }
     const Hre = Fr($re, [
             ["render", jre],

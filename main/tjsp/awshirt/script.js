@@ -28790,9 +28790,9 @@ ${e}`
     _se = {
         class: "content"
     },
-    xse = bl(() => Y("h1", null, "You have encountered an error", -1)),
-    vse = bl(() => Y("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-    bse = bl(() => Y("ul", null, [Y("li", null, "Refresh the page"), Y("li", null, "Turn off adblockers or other browser extensions."), Y("li", null, "Check your connection to the Internet."), Y("li", null, "Make sure you're using an up-to-date browser."), Y("li", null, "If that doesn't work, let us know.")], -1)),
+    xse = bl(() => Y("h1", null, "Se ha producido un error", -1)),
+    vse = bl(() => Y("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+    bse = bl(() => Y("ul", null, [Y("li", null, "Refresh the page"), Y("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), Y("li", null, "Comprueba tu conexión a Internet."), Y("li", null, "Asegúrate de estar utilizando un navegador actualizado."), Y("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     yse = bl(() => Y("hr", null, null, -1)),
     Sse = {
         class: "error"
@@ -28801,7 +28801,7 @@ ${e}`
 function Cse(t, e, r, n, s, a) {
     return Q(), re("div", mse, [Y("div", Tse, [Rse, Y("div", _se, [xse, vse, bse, Y("button", {
         onClick: e[0] || (e[0] = (...u) => t.onFeedbackClick && t.onFeedbackClick(...u))
-    }, "Tell us what happened"), yse, Y("pre", Sse, Je(t.message), 1)])])])
+    }, "Dinos qué pasó"), yse, Y("pre", Sse, Je(t.message), 1)])])])
 }
 const Lse = pt(gse, [
         ["render", Cse],

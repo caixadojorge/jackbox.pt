@@ -23999,9 +23999,9 @@ ${t}`
         kee = {
             class: "content"
         },
-        Pee = sc(() => K("h1", null, "You have encountered an error", -1)),
-        Lee = sc(() => K("p", null, "Something went wrong! But don't worry, you can try a few things to get going.", -1)),
-        xee = sc(() => K("ul", null, [K("li", null, "Refresh the page"), K("li", null, "Turn off adblockers or other browser extensions."), K("li", null, "Check your connection to the Internet."), K("li", null, "Make sure you're using an up-to-date browser."), K("li", null, "If that doesn't work, let us know.")], -1)),
+        Pee = sc(() => K("h1", null, "Se ha producido un error", -1)),
+        Lee = sc(() => K("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
+        xee = sc(() => K("ul", null, [K("li", null, "Refresh the page"), K("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), K("li", null, "Comprueba tu conexión a Internet."), K("li", null, "Asegúrate de estar utilizando un navegador actualizado."), K("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Dee = sc(() => K("hr", null, null, -1)),
         Mee = {
             class: "error"
@@ -24010,7 +24010,7 @@ ${t}`
     function Fee(e, t, r, n, s, o) {
         return q(), Y("div", Aee, [K("div", Nee, [Ree, K("div", kee, [Pee, Lee, xee, K("button", {
             onClick: t[0] || (t[0] = (...c) => e.onFeedbackClick && e.onFeedbackClick(...c))
-        }, "Tell us what happened"), Dee, K("pre", Mee, it(e.message), 1)])])])
+        }, "Dinos qué pasó"), Dee, K("pre", Mee, it(e.message), 1)])])])
     }
     const Uee = ct(Cee, [
             ["render", Fee],
