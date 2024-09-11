@@ -21173,7 +21173,7 @@ const zx = VC.extend({
         else if (i === "Gameplay_LyingDone") this.showScreen(".state-lyingdone");
         else if (i === "Gameplay_ChooseLie" && n === "Gameplay_ChooseLie")
             if (t.choosingDone || t.chosen !== void 0) {
-                we("#chooselikes-choice").html(t.chosen ? `Elegiste: ${Ut.safeText(t.chosen)}` : "No tomaste una elección"), we("#chooselikes-text").html("Concede likes de bonificación");
+                we("#chooselikes-choice").html(t.chosen ? `Elegiste: ${Ut.safeText(t.chosen)}` : "No tomaste una decisión"), we("#chooselikes-text").html("Concede likes de bonificación");
                 let v = "";
                 for (a = 0; a < t.choices.length; a++) {
                     const S = t.likes.indexOf(t.choices[a]) >= 0,
