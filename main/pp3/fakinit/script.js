@@ -21051,7 +21051,7 @@ const $x = Et.View.extend({
                             </div>\r
                         </form>\r
                         <p class="fakinit-name-change-button"><button id="fakinit-name-change" class="fakinit-button fakinit-button-secondary">¿Cambiar el nombre?</button></p>\r
-                        <p><span class="fakinit-text fakinit-text-instruction fakinit-category-color">Recomendamos usar tu propio nombre para que las personas puedan identificarte fácilmente</span></p>\r
+                        <p><span class="fakinit-text fakinit-text-instruction fakinit-category-color">Recomendamos que uses tu propio nombre para que las personas puedan identificarte fácilmente</span></p>\r
                     </div>\r
                     <form class="pure-form">\r
                         <button type="button" id="fakinit-startgame" class="fakinit-button btn btn-lg btn-block">ESTAMOS TODOS</button>\r
@@ -21181,7 +21181,7 @@ const $x = Et.View.extend({
                     <button id="fakinit-vote-locked" disabled class='fakinit-button fakinit-button-lock-invert button-input'>\r
                     </button>\r
                     <p class="fakinit-text"><span id="vote-locked-instruction" class="fakinit-text fakinit-text-instruction">¡Bloqueaste tu voto!</span></p>\r
-                    <p class="fakinit-text"><span id="vote-locked-waiting"class="fakinit-text fakinit-text-instruction">Esperando a otros jugadores</span></p>\r
+                    <p class="fakinit-text"><span id="vote-locked-waiting"class="fakinit-text fakinit-text-instruction">Esperando a los otros jugadores</span></p>\r
                 </div>\r
             </div>\r
         </div>\r
@@ -21310,7 +21310,7 @@ const zx = lc.extend({
                 le(".fakinit-category").html(t.category), le(".fakinit-task").html(t.task), le(".fakinit-gameplay-sign").hide(), this.showScreen(".state-gameplay");
                 break;
             case "Gameplay_Input":
-                t.category = "A⠀textear", le(".fakinit-category").html(t.category), le(".fakinit-task").html("¡Quédate ahí!<br>Los jugadores están respondiend"), le(".fakinit-gameplay-sign").hide(), this.showScreen(".state-gameplay");
+                t.category = "A⠀textear", le(".fakinit-category").html(t.category), le(".fakinit-task").html("¡Quédate ahí!<br>Los jugadores están respondiendo"), le(".fakinit-gameplay-sign").hide(), this.showScreen(".state-gameplay");
                 break;
             case "Vote": {
                 le("#vote-text").html(t.task);
