@@ -21028,7 +21028,7 @@ const Gx = xt.View.extend({
         <button type="button" style="" class="button btn btn-lg censorRound">CENSURAR ESTA ENTRADA</button>
     </div>
     <div class="button-group btn-group btn-block">
-        <button type="button" style="" class="button btn btn-lg censorGame">CENSURAR ESTE JUGADOR</button>
+        <button type="button" style="" class="button btn btn-lg censorGame">CENSURAR A ESTE JUGADOR</button>
     </div>
     <div class="button-group btn-group btn-block">
         <button type="button" style="" class="button btn btn-lg cancel">CANCELAR</button>
