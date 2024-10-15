@@ -21723,7 +21723,7 @@ const Hx = mt.View.extend({
         sendInput() {
             this.inputComponent.model.set("error", null);
             const t = this.inputComponent.getSanitizedValue();
-            return !t || t.length === 0 ? (this.inputComponent.model.set("error", "Try typing something before submitting!"), !1) : (this.shouldSubmit = !1, this.model.sendMessage({
+            return !t || t.length === 0 ? (this.inputComponent.model.set("error", "¡Trata de escribir algo antes de enviar!"), !1) : (this.shouldSubmit = !1, this.model.sendMessage({
                 entry: t
             }), this.$el.find(".enterSingleTextFieldset").prop("disabled", !0), !1)
         }

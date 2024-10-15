@@ -21045,7 +21045,7 @@ const zx = ht.View.extend({
                         const e = t[0],
                             n = t[1];
                         let i = "";
-                        return i += `${n.name}`, n.monster.name !== "Human" && (i += ` - ${n.monster.name} `), e && (i += ` tiene ${e} unread`), i
+                        return i += `${n.name}`, n.monster.name !== "Human" && (i += ` - ${n.monster.name} `), e && (i += ` tiene ${e} sin leer`), i
                     }
                 }]
             },
