@@ -21045,7 +21045,7 @@ const $x = Et.View.extend({
     }),
     Ux = `
     <button type="button" class="button choice-button btn btn-lg"></button>
-    <button data-action="censor" aria-label="Censor" class="button censor-button btn btn-lg"></button>
+    <button data-action="censor" aria-label="Censurar" class="button censor-button btn btn-lg"></button>
     <button data-action="choose" aria-label="Like" class="button like-button btn btn-lg"></button>`,
     Gx = to.extend({
         template: at.template(Ux),
@@ -21055,7 +21055,7 @@ const $x = Et.View.extend({
                     name: "aria-label",
                     observe: "className",
                     onGet(t) {
-                        return t && t.indexOf("choice-liked") !== -1 ? "Unlike" : "Like"
+                        return t && t.indexOf("choice-liked") !== -1 ? "Deslike" : "Like"
                     }
                 }]
             }
