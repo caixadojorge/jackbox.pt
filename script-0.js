@@ -13502,12 +13502,12 @@ function ug() {
     return `
     html {
         padding: 30px;
-        background: #4254f4;
+        background: #54FF00;
         color: #fff;
     }
 
     body {
-        background: #4254f4;
+        background: #54FF00;
     }
 
     body .loader-status {
@@ -13558,12 +13558,12 @@ function lg() {
     return `
     html {
         padding: 30px;
-        background: #4254f4;
+        background: #54FF00;
         color: #fff;
     }
 
     body {
-        background: #4254f4;
+        background: #54FF00;
     }
 
     body .loader-status {
@@ -13602,7 +13602,7 @@ function lg() {
     }
 
     span.type {
-        color: #4254F4;
+        color: #54FF00;
         font-size: 11px;
         padding: 2px 10px 0px;
         background: #fff;

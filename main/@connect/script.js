@@ -15137,7 +15137,7 @@ const N3 = [{
         isPublic: !0,
         directory: "pp1/drawful"
     }, {
-        name: "Papa Palabra",
+        name: "Palavras Passadas",
         tag: "wordspud",
         wrapper: "marionette",
         isPublic: !0,
@@ -36709,7 +36709,7 @@ de sua lista de jogos anteriores.`,
     fle = {
         CAMERA: "[b]AVISO:[/b] não detectamos nenhuma câmera, mas você ainda pode jogar sem foto. Se preferir, tente entrar com outro navegador.",
         STYLE: "[b]AVISO:[/b] seu navegador está desatualizado e terá problemas para exibir o jogo.",
-        TOS: "Clicando em {submit}, você concordará com os nossos [tos]Termos de Serviço[/tos]"
+        TOS: "Tradução em português feita pela equipe do Caixa do Jorge, sem qualquer afiliação á Jackbox Games. Clicando em {submit}, você concordará com os [tos]Termos de Serviço[/tos]."
     },
     cle = {
         BRANCH: Qoe,
@@ -38220,8 +38220,8 @@ window.tv.register({
             r;
         (i = t.match) != null && i.params.locale && (r = t.match.params.locale), qs.set(r);
         const n = Xk({
-            fallbackLocale: "es-XL",
-            locale: "es-XL",
+            fallbackLocale: "pt-BR",
+            locale: "pt-BR",
             messages: qs.mergeMessages(aq, Va)
         });
         return e.use(nte), e.use(Ase), e.use(n), e.use(iae, {
