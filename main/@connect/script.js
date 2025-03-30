@@ -37890,17 +37890,17 @@ function ife(t, e, r, n, i, s) {
     }, [ve("a", null, [ds(Je(t.$t("MENU.PAST_GAMES")) + " ", 1), t.hasUnseenGames ? (Le(), Oe("div", efe)) : gt("", !0)])], 32), Vt(o), t.shouldShowPreferredBranch ? (Le(), Pi(f, {
         key: 2
     })) : gt("", !0), ve("li", tfe, [ve("a", {
-        class: "facebook",
-        "aria-label": "facebook",
-        target: "_blank",
-        href: "https://www.facebook.com/JackboxGames",
-        onClick: e[8] || (e[8] = c => t.onLinkClick("https://www.facebook.com/JackboxGames"))
-    }), ve("a", {
         class: "twitter",
         "aria-label": "twitter",
         target: "_blank",
-        href: "https://twitter.com/jackboxgames",
-        onClick: e[9] || (e[9] = c => t.onLinkClick("https://twitter.com/jackboxgames"))
+        href: "https://twitter.com/jackboxpt",
+        onClick: e[8] || (e[8] = c => t.onLinkClick("https://twitter.com/jackboxpt"))
+    }), ve("a", {
+        class: "bluesky",
+        "aria-label": "bluesky",
+        target: "_blank",
+        href: "https://bsky.app/profile/jackbox.pt",
+        onClick: e[9] || (e[9] = c => t.onLinkClick("https://bsky.app/profile/jackbox.pt"))
     }), ve("a", {
         class: "instagram",
         "aria-label": "instagram",
