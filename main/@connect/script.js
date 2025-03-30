@@ -25474,7 +25474,7 @@ const mj = {
         PLAY_AGAIN: "Jogar de novo?",
         THANKS_FOR_PLAYING: "Obrigado por jogar!",
         BUTTON_GO_TO_GAME: "Ir para o jogo",
-        BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.tv",
+        BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.pt",
         BUTTON_SAME_PLAYERS: "Mesmos jogadores",
         BUTTON_NEW_PLAYERS: "Outros jogadores"
     },
