@@ -137,7 +137,7 @@
 }
 
 .jbg.schemable.theme-dark[data-v-2032aa39] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -152,7 +152,7 @@
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-2032aa39] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -167,7 +167,7 @@
 }
 
 .jbg[data-v-2032aa39] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -313,9 +313,9 @@
 .jbg .loading[data-v-2032aa39]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-2032aa39 1.5s infinite ease-in-out
 }
@@ -356,11 +356,11 @@
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -503,7 +503,7 @@
 
 .arrow svg[data-v-2032aa39] {
     width: 100%;
-    stroke: #54FF00;
+    stroke: #54f442;
     stroke-width: 6px;
     fill: transparent;
     stroke-linecap: round;
@@ -531,7 +531,7 @@
 }
 
 .dots .dot.current[data-v-2032aa39] {
-    background: #54FF00;
+    background: #54f442;
     transform: scale(1.5)
 }
 
@@ -558,20 +558,20 @@
     float: right;
     padding: 0 20px;
     border-radius: 20px;
-    background: #54FF00;
+    background: #54f442;
     font-size: 17px;
-    box-shadow: 0 4px #0e167d;
+    box-shadow: 0 4px #167d0e;
     transition: box-shadow .2s
 }
 
 .buttons .next[data-v-2032aa39]:active,
 .buttons .done[data-v-2032aa39]:active {
-    box-shadow: 0 0 #0e167d
+    box-shadow: 0 0 #167d0e
 }
 
 .buttons .done[data-v-2032aa39] {
     background: #fff;
-    color: #54FF00;
+    color: #54f442;
     animation: done-pulse-2032aa39 .5s alternate infinite
 }
 
@@ -2883,7 +2883,7 @@ html.disable--interaction.show--consent body {
 }
 
 .power-nav li.active[data-v-3606a1e1] {
-    color: #54FF00
+    color: #54f442
 }
 
 .power-nav .option[data-v-3606a1e1] {
@@ -2908,7 +2908,7 @@ html.disable--interaction.show--consent body {
 }
 
 .jbg.schemable.theme-dark[data-v-c4b66a33] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -2923,7 +2923,7 @@ html.disable--interaction.show--consent body {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-c4b66a33] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -2938,7 +2938,7 @@ html.disable--interaction.show--consent body {
 }
 
 .jbg[data-v-c4b66a33] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -3084,9 +3084,9 @@ html.disable--interaction.show--consent body {
 .jbg .loading[data-v-c4b66a33]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-c4b66a33 1.5s infinite ease-in-out
 }
@@ -3127,11 +3127,11 @@ html.disable--interaction.show--consent body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -3249,7 +3249,7 @@ html.disable--interaction.show--consent body {
 }
 
 .jbg.schemable.theme-dark[data-v-d0abff79] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -3264,7 +3264,7 @@ html.disable--interaction.show--consent body {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-d0abff79] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -3279,7 +3279,7 @@ html.disable--interaction.show--consent body {
 }
 
 .jbg[data-v-d0abff79] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -3425,9 +3425,9 @@ html.disable--interaction.show--consent body {
 .jbg .loading[data-v-d0abff79]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-d0abff79 1.5s infinite ease-in-out
 }
@@ -3468,11 +3468,11 @@ html.disable--interaction.show--consent body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -3549,7 +3549,7 @@ hr[data-v-d0abff79] {
 }
 
 .jbg.schemable.theme-dark[data-v-420dd700] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -3564,7 +3564,7 @@ hr[data-v-d0abff79] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-420dd700] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -3579,7 +3579,7 @@ hr[data-v-d0abff79] {
 }
 
 .jbg[data-v-420dd700] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -3725,9 +3725,9 @@ hr[data-v-d0abff79] {
 .jbg .loading[data-v-420dd700]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-420dd700 1.5s infinite ease-in-out
 }
@@ -3768,11 +3768,11 @@ hr[data-v-d0abff79] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -3791,7 +3791,7 @@ hr[data-v-d0abff79] {
 }
 
 .jbg.schemable.theme-dark[data-v-db592987] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -3806,7 +3806,7 @@ hr[data-v-d0abff79] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-db592987] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -3821,7 +3821,7 @@ hr[data-v-d0abff79] {
 }
 
 .jbg[data-v-db592987] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -3967,9 +3967,9 @@ hr[data-v-d0abff79] {
 .jbg .loading[data-v-db592987]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-db592987 1.5s infinite ease-in-out
 }
@@ -4010,11 +4010,11 @@ hr[data-v-d0abff79] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -4038,11 +4038,11 @@ button.twitch[data-v-db592987] {
 }
 
 button.twitch[data-v-db592987] {
-    background: #64449b
+    background: #6531b2
 }
 
 .jbg.schemable.theme-dark[data-v-2e99f2ab] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -4057,7 +4057,7 @@ button.twitch[data-v-db592987] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-2e99f2ab] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -4072,7 +4072,7 @@ button.twitch[data-v-db592987] {
 }
 
 .jbg[data-v-2e99f2ab] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -4218,9 +4218,9 @@ button.twitch[data-v-db592987] {
 .jbg .loading[data-v-2e99f2ab]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-2e99f2ab 1.5s infinite ease-in-out
 }
@@ -4261,11 +4261,11 @@ button.twitch[data-v-db592987] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -4307,7 +4307,7 @@ button.twitch[data-v-db592987] {
 }
 
 .jbg.modal[data-v-2e99f2ab] {
-    background: #0e167dd9
+    background: #167d0ed9
 }
 
 .jbg .content[data-v-2e99f2ab] {
@@ -4477,7 +4477,7 @@ button.twitch[data-v-db592987] {
 }
 
 .jbg.schemable.theme-dark[data-v-566a475d] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -4492,7 +4492,7 @@ button.twitch[data-v-db592987] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-566a475d] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -4507,7 +4507,7 @@ button.twitch[data-v-db592987] {
 }
 
 .jbg[data-v-566a475d] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -4653,9 +4653,9 @@ button.twitch[data-v-db592987] {
 .jbg .loading[data-v-566a475d]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-566a475d 1.5s infinite ease-in-out
 }
@@ -4696,11 +4696,11 @@ button.twitch[data-v-db592987] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -4741,7 +4741,7 @@ button.twitch[data-v-db592987] {
 .toast.reconnecting[data-v-566a475d],
 .toast.paused[data-v-566a475d] {
     border-top: 6px solid #FFF;
-    background: #54FF00
+    background: #54f442
 }
 
 .toast.generic .text[data-v-566a475d],
@@ -4813,7 +4813,7 @@ button.twitch[data-v-db592987] {
 }
 
 .toast.broadcaster .text[data-v-566a475d] {
-    color: #64449b;
+    color: #6531b2;
     height: 50px;
     line-height: 50px;
     margin: 30px 0 17px;
@@ -4838,7 +4838,7 @@ button.twitch[data-v-db592987] {
     right: 15px;
     width: 40px;
     height: 40px;
-    border: 6px solid #0E167D;
+    border: 6px solid #167d0e;
     border-radius: 20px;
     animation: reconnecting-spinner-566a475d 1s infinite linear reverse
 }
@@ -4850,18 +4850,18 @@ button.twitch[data-v-db592987] {
     left: -6px;
     width: 40px;
     height: 40px;
-    border: 6px solid #0E167D;
+    border: 6px solid #167d0e;
     border-bottom: 6px solid #FFF;
     border-radius: 20px
 }
 
 @keyframes reconnecting-background-566a475d {
     0% {
-        background: #54FF00
+        background: #54f442
     }
 
     to {
-        background: #3241ce
+        background: #41ce32
     }
 }
 
@@ -4900,7 +4900,7 @@ body {
 }
 
 .jbg.schemable.theme-dark[data-v-711f56b2] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -4915,7 +4915,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-711f56b2] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -4930,7 +4930,7 @@ body {
 }
 
 .jbg[data-v-711f56b2] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -5076,9 +5076,9 @@ body {
 .jbg .loading[data-v-711f56b2]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-711f56b2 1.5s infinite ease-in-out
 }
@@ -5119,11 +5119,11 @@ body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -5175,7 +5175,7 @@ hr[data-v-711f56b2] {
 }
 
 .jbg.schemable.theme-dark[data-v-47cae0dc] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -5190,7 +5190,7 @@ hr[data-v-711f56b2] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-47cae0dc] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -5205,7 +5205,7 @@ hr[data-v-711f56b2] {
 }
 
 .jbg[data-v-47cae0dc] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -5351,9 +5351,9 @@ hr[data-v-711f56b2] {
 .jbg .loading[data-v-47cae0dc]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-47cae0dc 1.5s infinite ease-in-out
 }
@@ -5394,11 +5394,11 @@ hr[data-v-711f56b2] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -5484,7 +5484,7 @@ button.audience.connecting:before {
 }
 
 .jbg.schemable.theme-dark[data-v-a6916483] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -5499,7 +5499,7 @@ button.audience.connecting:before {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-a6916483] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -5514,7 +5514,7 @@ button.audience.connecting:before {
 }
 
 .jbg[data-v-a6916483] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -5660,9 +5660,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-a6916483]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-a6916483 1.5s infinite ease-in-out
 }
@@ -5703,11 +5703,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -5947,7 +5947,7 @@ button.audience.connecting:before {
     padding: 0 10px;
     background: #fff;
     border-radius: 0 0 5px 5px;
-    color: #0e167d;
+    color: #167d0e;
     font-size: 12px;
     white-space: nowrap;
     transform: translate(-50%);
@@ -5960,14 +5960,14 @@ button.audience.connecting:before {
     width: 11px;
     height: 11px;
     margin-left: 1px;
-    fill: #0e167d
+    fill: #167d0e
 }
 
 .name[data-v-a6916483] {
     float: left;
     width: 75%;
     padding-top: 3px;
-    color: #0e167d;
+    color: #167d0e;
     font-size: 14px;
     text-transform: uppercase;
     transition: color .1s;
@@ -6030,7 +6030,7 @@ button.audience.connecting:before {
     height: 40px;
     padding: 7px;
     margin-left: -10px;
-    background: #0e167d;
+    background: #167d0e;
     border-radius: 20px;
     transform: rotate(15deg)
 }
@@ -6117,7 +6117,7 @@ button.audience.connecting:before {
 }
 
 .jbg.schemable.theme-dark[data-v-b57c3cb3] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -6132,7 +6132,7 @@ button.audience.connecting:before {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-b57c3cb3] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -6147,7 +6147,7 @@ button.audience.connecting:before {
 }
 
 .jbg[data-v-b57c3cb3] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -6293,9 +6293,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-b57c3cb3]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-b57c3cb3 1.5s infinite ease-in-out
 }
@@ -6336,11 +6336,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -6398,7 +6398,7 @@ button.audience.connecting:before {
 }
 
 .jbg.schemable.theme-dark[data-v-1a297816] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -6413,7 +6413,7 @@ button.audience.connecting:before {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-1a297816] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -6428,7 +6428,7 @@ button.audience.connecting:before {
 }
 
 .jbg[data-v-1a297816] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -6574,9 +6574,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-1a297816]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-1a297816 1.5s infinite ease-in-out
 }
@@ -6617,11 +6617,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -6705,7 +6705,7 @@ button.audience.connecting:before {
 }
 
 .jbg.schemable.theme-dark[data-v-727b0bbe] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -6720,7 +6720,7 @@ button.audience.connecting:before {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-727b0bbe] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -6735,7 +6735,7 @@ button.audience.connecting:before {
 }
 
 .jbg[data-v-727b0bbe] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -6881,9 +6881,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-727b0bbe]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-727b0bbe 1.5s infinite ease-in-out
 }
@@ -6924,11 +6924,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -6991,7 +6991,7 @@ li.appearance svg[data-v-727b0bbe] {
 }
 
 li.appearance svg .frame[data-v-727b0bbe] {
-    fill: #0e167d;
+    fill: #167d0e;
     stroke-width: 2.5px
 }
 
@@ -7049,7 +7049,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg.schemable.theme-dark[data-v-4e7c2aa2] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -7064,7 +7064,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-4e7c2aa2] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -7079,7 +7079,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg[data-v-4e7c2aa2] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -7225,9 +7225,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-4e7c2aa2]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-4e7c2aa2 1.5s infinite ease-in-out
 }
@@ -7268,11 +7268,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -7327,7 +7327,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg.schemable.theme-dark[data-v-d35c1006] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -7342,7 +7342,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-d35c1006] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -7357,7 +7357,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg[data-v-d35c1006] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -7503,9 +7503,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-d35c1006]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-d35c1006 1.5s infinite ease-in-out
 }
@@ -7546,11 +7546,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -7662,8 +7662,8 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     color: #fff;
     padding-left: 25px;
     border: 5px solid #c7c7c7;
-    background-color: #64449b;
-    background-image: url("data:image/svg+xml,%3csvg%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20x='0px'%20y='0px'%20width='537px'%20height='612px'%20viewBox='0%200%20537%20612'%20style='overflow:visible;enable-background:new%200%200%20537%20612;'%20xml:space='preserve'%3e%3cstyle%20type='text/css'%3e%20.st0{fill-rule:evenodd;clip-rule:evenodd;fill:%23FFFFFF;}%20%3c/style%3e%3cdefs%3e%3c/defs%3e%3cg%20id='g3365_1_'%20transform='translate(420.064,651.1567)'%3e%3cpath%20id='path3367_1_'%20class='st0'%20d='M67.1-326.4L-20.4-239h-137.4l-74.9,74.9V-239h-112.4v-362.2H67.1V-326.4z%20M-395.1-651.2%20l-25,99.9v449.6h112.4v62.5h62.4l62.5-62.5h99.9L117-301.4v-349.7H-395.1L-395.1-651.2z'/%3e%3c/g%3e%3cpath%20id='path3369_1_'%20class='st0'%20d='M212.3,299.8h50V149.9h-50V299.8z%20M349.7,299.8h50V149.9h-50V299.8z'/%3e%3c/svg%3e");
+    background-color: #6531b2;
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgd2lkdGg9IjExOHB4IiBoZWlnaHQ9IjEzOHB4IiB2aWV3Qm94PSIwIDAgMTE4IDEzOCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU3LjEgKDgzMDg4KSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4NCiAgICA8dGl0bGU+bG9nbyAvIGdsaXRjaCAvIGJsYWNrPC90aXRsZT4NCiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4NCiAgICA8ZyBpZD0ibG9nby0vLWdsaXRjaC0vLWJsYWNrIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4NCiAgICAgICAgPGcgaWQ9ImxvZ28tLy1nbGl0Y2giIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAwLjAwMDAwMCkiPg0KICAgICAgICAgICAgPHBhdGggZD0iTTExNy42MDUsMCBMMTE3LjYwNSw2OC42MDUgTDczLjUwMywxMTIuNzA0IEw1My45MDQsMTEyLjcwNCBMMjkuNDAxLDEzNy4yMDcgTDI5LjQwMSwxMTIuNzA0IEw4LjUyNjUxMjgzZS0xNCwxMTIuNzA0IEw4LjUyNjUxMjgzZS0xNCwyNC41MDIgTDI0LjUsMCBMMTE3LjYwNSwwIFogTTEwNy44MDUsOS44MDEgTDI5LjQwMSw5LjgwMSBMMjkuNDAxLDgzLjMwNCBMNTEuNDUyLDgzLjMwNCBMNTEuNDUyLDEwMC40NTQgTDY4LjYwNSw4My4zMDQgTDg4LjIwNiw4My4zMDQgTDEwNy44MDUsNjMuNzAzIEwxMDcuODA1LDkuODAxIFogTTkzLjEwNDIsMjYuOTUxOCBMOTMuMTA0Miw1Ni4zNTE4IEw4My4zMDQyLDU2LjM1MTggTDgzLjMwNDIsMjYuOTUxOCBMOTMuMTA0MiwyNi45NTE4IFogTTY2LjE1MzIsMjYuOTUxOCBMNjYuMTUzMiw1Ni4zNTE4IEw1Ni4zNTMyLDU2LjM1MTggTDU2LjM1MzIsMjYuOTUxOCBMNjYuMTUzMiwyNi45NTE4IFoiIGlkPSJDb21iaW5lZC1TaGFwZSIgZmlsbD0iI0ZGRkZGRiIvPg0KICAgICAgICA8L2c+DQogICAgPC9nPg0KPC9zdmc+");
     background-size: 25px 25px;
     background-repeat: no-repeat;
     background-position: 45px 13px;
@@ -7683,7 +7683,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .nav li.moderator a[data-v-d35c1006] {
     color: #fff;
     border: 5px solid #c7c7c7;
-    background-color: #0e167d;
+    background-color: #167d0e;
     transition: background-color .25s
 }
 
@@ -7694,7 +7694,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .nav li.moderator a[data-v-d35c1006]:active {
-    background-color: #3241ce
+    background-color: #41ce32
 }
 
 .nav li.social a[data-v-d35c1006] {
@@ -7727,7 +7727,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     top: -10px;
     left: auto;
     right: -10px;
-    border: 4px solid #3241CE
+    border: 4px solid #41ce32
 }
 
 @keyframes fade-animation-d35c1006 {
@@ -7741,7 +7741,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg.schemable.theme-dark[data-v-40ec1b21] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -7756,7 +7756,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-40ec1b21] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -7771,7 +7771,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg[data-v-40ec1b21] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -7917,9 +7917,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-40ec1b21]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-40ec1b21 1.5s infinite ease-in-out
 }
@@ -7960,11 +7960,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -8005,7 +8005,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     height: auto;
     padding: 3px 10px 2px;
     margin: 0;
-    background: #0e167d;
+    background: #167d0e;
     font-size: 12px;
     box-shadow: none
 }
@@ -8020,12 +8020,12 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .data[data-v-40ec1b21] {
     margin: 25px 0 10px;
     padding-top: 15px;
-    border-top: 1px solid #0E167D;
+    border-top: 1px solid #167d0e;
     text-align: center
 }
 
 .data button[data-v-40ec1b21] {
-    background: #0e167d;
+    background: #167d0e;
     box-shadow: none;
     height: auto;
     padding: 10px;
@@ -8044,7 +8044,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg.schemable.theme-dark[data-v-604bf824] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -8059,7 +8059,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-604bf824] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -8074,7 +8074,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg[data-v-604bf824] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -8220,9 +8220,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-604bf824]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-604bf824 1.5s infinite ease-in-out
 }
@@ -8263,11 +8263,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -8291,7 +8291,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     left: 0;
     height: 50px;
     width: 100%;
-    background: #54FF00;
+    background: #54f442;
     z-index: 100
 }
 
@@ -8324,7 +8324,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     top: 7px;
     left: 25px;
     background-color: #cf2929;
-    border: 3px solid #54FF00;
+    border: 3px solid #54f442;
     border-radius: 50%;
     z-index: 1
 }
@@ -8416,7 +8416,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     width: 100%;
     height: calc(100% - 50px);
     padding: 0 15px;
-    background-color: #3241ce;
+    background-color: #41ce32;
     overflow-y: auto;
     z-index: 99;
     transition: height .45s
@@ -8436,13 +8436,13 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     top: 0;
     left: 16px;
     background-color: #cf2929;
-    border: 3px solid #54FF00;
+    border: 3px solid #54f442;
     border-radius: 50%;
     z-index: 1
 }
 
 .jbg.schemable.theme-dark[data-v-d720b942] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #ce4949;
     --shadows: rgb(4, 9, 14, .5);
     --backgroundPrimary: #0a1420;
@@ -8457,7 +8457,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 
 @media (prefers-color-scheme: dark) {
     .jbg.schemable.theme-device[data-v-d720b942] {
-        --accent: #54FF00;
+        --accent: #54f442;
         --alert: #ce4949;
         --shadows: rgb(4, 9, 14, .5);
         --backgroundPrimary: #0a1420;
@@ -8472,7 +8472,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .jbg[data-v-d720b942] {
-    --accent: #54FF00;
+    --accent: #54f442;
     --alert: #cf2929;
     --shadows: rgba(128, 128, 128, .4);
     --backgroundPrimary: #fff;
@@ -8618,9 +8618,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-d720b942]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #167d0e;
     border-radius: 50%;
-    background: #54FF00;
+    background: #54f442;
     animation-fill-mode: both;
     animation: loading-d720b942 1.5s infinite ease-in-out
 }
@@ -8661,11 +8661,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #167d0e
     }
 
     50% {
-        background-color: #54FF00
+        background-color: #54f442
     }
 }
 
@@ -8769,13 +8769,13 @@ body {
 }
 
 #cc-main {
-    --cc-bg: #3241CE;
+    --cc-bg: #41ce32;
     --cc-primary-color: #ffffff;
     --cc-secondary-color: #ffffff;
-    --cc-btn-primary-bg: #54FF00;
+    --cc-btn-primary-bg: #54f442;
     --cc-btn-primary-color: #E0E0E0;
     --cc-btn-primary-border-color: #E0E0E0;
-    --cc-btn-primary-hover-bg: #0E167D;
+    --cc-btn-primary-hover-bg: #167d0e;
     --cc-btn-primary-hover-color: #E0E0E0;
-    --cc-separator-border-color: #54FF00
+    --cc-separator-border-color: #54f442
 }
