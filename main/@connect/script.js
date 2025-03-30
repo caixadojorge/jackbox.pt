@@ -24450,7 +24450,7 @@ class Ej {
         if (!qe.isSupported) return;
         const e = hj();
         qe.set("twitchState", e);
-        const r = "kevtapj8zlyw5lh8ulpwyuj967hdqu";
+        const r = "fbmvvv4jfish71i6fx1ht41epl80ny";
         let n = `https://${window.location.hostname}`;
         window.location.hostname === "localhost" && (n = "http://localhost:9090/");
         let i = "https://id.twitch.tv/oauth2/authorize";
@@ -24483,7 +24483,7 @@ class Ej {
             const n = await (await fetch("https://api.twitch.tv/helix/users", {
                 headers: {
                     Authorization: `Bearer ${e}`,
-                    "Client-ID": "kevtapj8zlyw5lh8ulpwyuj967hdqu"
+                    "Client-ID": "fbmvvv4jfish71i6fx1ht41epl80ny"
                 }
             })).json();
             if (!n || !n.data) return null;
