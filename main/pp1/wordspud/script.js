@@ -16808,7 +16808,7 @@ const VC = Et.View.extend({
         onRoomWasDestroyed() {
             en.remove("roomCode"), en.remove("reconnect"), Ot.show("error", {
                 titleText: "Desconectado",
-                text: "¡Gracias por jugar!",
+                text: "Obrigado por jogar!",
                 willClose: () => {
                     window.location.reload(!0)
                 }
@@ -16817,7 +16817,7 @@ const VC = Et.View.extend({
         onDisconnected() {
             Ot.show("error", {
                 titleText: "Desconectado",
-                text: "Has sido desconectado.",
+                text: "Você foi desconectado.",
                 willClose: () => {
                     window.location.reload(!0)
                 }
@@ -17345,9 +17345,9 @@ const VC = Et.View.extend({
             SUPPORTED_LANGUAGES: ["English", "Fran\xE7ais", "Italiano", "Deutsch", "Espa\xF1ol"],
             SUPPORTED_LOCALES: ["en", "fr", "it", "de", "es"],
             LANGUAGE: "Idioma",
-            LOGIN: "Iniciar sesi\xF3n",
+            LOGIN: "Iniciar sessão",
             STRING_ERROR_SERVER_ROOM_DISCONNECTED: "Desconectado",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "¡Gracias por jugar!"
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "Obrigado por jogar!"
         },
         fr: {
             LANGUAGE_NAME: "Fran\xE7ais",
