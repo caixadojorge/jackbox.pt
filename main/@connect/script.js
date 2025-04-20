@@ -36709,7 +36709,7 @@ de sua lista de jogos anteriores.`,
     fle = {
         CAMERA: "[b]AVISO:[/b] não detectamos nenhuma câmera, mas você ainda pode jogar sem foto. Se preferir, tente entrar com outro navegador.",
         STYLE: "[b]AVISO:[/b] seu navegador está desatualizado e terá problemas para exibir o jogo.",
-        TOS: "Tradução em português feita pela equipe do Caixa do Jorge, sem qualquer afiliação á Jackbox Games. Clicando em {submit}, você concordará com os [tos]Termos de Serviço[/tos]."
+        TOS: "Tradução em português feita pela equipe do Jackbox em português, sem qualquer afiliação á Jackbox Games. Clicando em {submit}, você concordará com os [tos]Termos de Serviço[/tos]."
     },
     cle = {
         BRANCH: Qoe,
