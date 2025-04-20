@@ -31393,8 +31393,8 @@ window.tv.register({
         let r;
         (s = t.room) != null && s.locale && (r = t.room.locale), (a = t.match) != null && a.params.locale && (r = t.match.params.locale), pa.set(r);
         const n = nK({
-            fallbackLocale: "es-XL",
-            locale: "es-XL",
+            fallbackLocale: "pt-BR",
+            locale: "pt-BR",
             messages: pa.mergeMessages(I6, rae, pW)
         });
         return e.use(gz), e.use(hte), e.use(iie), e.use(n), e.use(wie, {
